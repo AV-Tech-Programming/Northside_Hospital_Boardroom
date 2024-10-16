@@ -1,0 +1,21 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 13:00:04.532029-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 13:00:04.532025-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = ""
+
+{AssetAttributes}
+
+[Attributes]
+Id = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
+Name = "MTLPower"
+SourceUri = "MTLPower.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

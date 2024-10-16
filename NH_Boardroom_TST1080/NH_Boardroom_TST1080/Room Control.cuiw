@@ -1,0 +1,1046 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 15:18:35.568584-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 15:18:35.56858-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<div categoryname="Widget Components" globalcontrolcontract="on" id="is5tod65rp" componentname="102 - Room Control" defaultwidth="0" defaultheight="0" class="widget-container" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"><ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" id="ig5yhgnzp6s2q" componentname="Background" ccid_linksendreceive="True" backgroundcolor="rgba(173,185,200,0.79)" oldid="i3dim" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              </ch5-background><ch5-text clearlabel="false" labelmodeadvncomponent="advanced" id="i79qrsypqj" ccid_themecssset="true" ccid_linksendreceive="True" componentname="FormattedText_41" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="<p><span  style=&quot; font-size: 33px; color: rgb(30,60,96);&quot;>Lights</span></p>" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              </ch5-text><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" size="custom" id="ikspvq7i3h" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_72" pageflip="0" pd-receivestateselected="70" sendeventontouch="70" previewstate="normal" assetid="0" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="i48sbombqk" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="iyvi74nxxq" state="normal" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Preset 1</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="iu64mnml99" state="pressed" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Preset 1</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="ixf3sfle38" state="selected" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Preset 1</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" size="custom" id="ix9atmowdf" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_173" pageflip="0" pd-receivestateselected="71" sendeventontouch="71" previewstate="normal" assetid="0" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="i5kpoueb5b" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="i8o07e68qv" state="normal" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Preset 2</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="i5x7fntx6j" state="pressed" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Preset 2</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="ixh0kmh5f4" state="selected" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Preset 2</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" size="custom" id="iqwqtc7oyz" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_194" pageflip="0" pd-receivestateselected="72" sendeventontouch="72" previewstate="normal" assetid="0" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="ijq3o2grcv" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="i3mlrcuwqa" state="normal" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Meeting&nbsp;1</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="ic30d9ud3n" state="pressed" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Meeting&nbsp;1</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="icb5nvwzsg" state="selected" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Meeting&nbsp;1</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" size="custom" id="i8y25hjnsb" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_205" pageflip="0" pd-receivestateselected="73" sendeventontouch="73" previewstate="normal" assetid="0" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="itd0rvfshy" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="i9k1fdlsqg" state="normal" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Meeting 2</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="i5twhwzcbh" state="pressed" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Meeting 2</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="ita71jullq" state="selected" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Meeting 2</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" size="custom" id="iwoa2d8gai" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_226" pageflip="0" pd-receivestateselected="75" sendeventontouch="75" previewstate="normal" assetid="0" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="iycxzpkodw" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="i4idern5qu" state="normal" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="58f0bc4f-7313-44a0-b645-63398ce9db1b" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="ip0l7yqrlo" state="pressed" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="58f0bc4f-7313-44a0-b645-63398ce9db1b" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="iuy8ue1lft" state="selected" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="58f0bc4f-7313-44a0-b645-63398ce9db1b" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-text clearlabel="false" labelmodeadvncomponent="advanced" id="i9570k7t3t" ccid_themecssset="true" ccid_linksendreceive="True" componentname="FormattedText_57" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="<p><span  style=&quot; font-size: 33px; color: rgb(30,60,96);&quot;>BluRay</span></p>" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              </ch5-text><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" size="custom" id="ivld565nzo" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_238" pageflip="0" pd-receivestateselected="23" sendeventontouch="23" previewstate="normal" assetid="0" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="ihf1qgvafp" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="i8wce3dhy0" state="normal" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="b3961dfc-45eb-437c-a5fc-190f87d2fb84" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 22px; color: rgb(255,255,255);&quot;>BluRay On/Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="irg186pony" state="pressed" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="58f0bc4f-7313-44a0-b645-63398ce9db1b" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 22px; color: rgb(255,255,255);&quot;>BluRay On/Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="io9mr4bi6l" state="selected" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="58f0bc4f-7313-44a0-b645-63398ce9db1b" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 22px; color: rgb(255,255,255);&quot;>BluRay On/Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-text clearlabel="false" labelmodeadvncomponent="advanced" id="i22sg49v65" ccid_themecssset="true" ccid_linksendreceive="True" componentname="FormattedText_139" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="<p><span  style=&quot; font-size: 33px; color: rgb(30,60,96);&quot;>Tuner</span></p>" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              </ch5-text><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" size="custom" id="iv9b6jjhk2" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_4910" pageflip="0" pd-receivestateselected="22" sendeventontouch="22" previewstate="normal" assetid="0" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="ionk37u0x2" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="ib194mxrjf" state="normal" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="b3961dfc-45eb-437c-a5fc-190f87d2fb84" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 22px; color: rgb(255,255,255);&quot;>Tuner&nbsp;On/Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="i1enyel2g2" state="pressed" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="58f0bc4f-7313-44a0-b645-63398ce9db1b" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 22px; color: rgb(255,255,255);&quot;>Tuner&nbsp;On/Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="i4nuqjj4og" state="selected" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="58f0bc4f-7313-44a0-b645-63398ce9db1b" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 22px; color: rgb(255,255,255);&quot;>Tuner&nbsp;On/Off</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state></ch5-button-mode></ch5-button></div>
+
+
+
+{Css}
+@media (max-width: 99999px) { #is5tod65rp { width: 892px; height: 612px; left: 0; top: 0; position: absolute } .widget-container { background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); z-index: 0 } #i79qrsypqj { min-height: 48px; position: absolute; line-height: normal; display: block !important; padding: 0; text-decoration: none; top: 79px; left: 286px; width: 319px; height: 40px; font-family: Roboto } #i79qrsypqj .ch5-text .ch5-text--span { max-height: max-content !important } #i79qrsypqj .ch5-text span.ch5-text--multiline-support-true { word-break: normal; display: block !important } #i79qrsypqj .ch5-text--horizontal-alignment-center { padding: 0 } #i79qrsypqj .ch5-text { background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0); border-width: medium; border-style: none; width: 319px; height: 40px; color: #1e3c60; font-size: 28px; custom-font-size: 28px } #ikspvq7i3h { position: absolute; display: block; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; top: 133px; left: 145px; width: 166px; height: 109px; buttonDefaultLabel_font-size: 0 } #ikspvq7i3h .ch5-button-child { position: fixed; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; height: 109px } #ikspvq7i3h .ch5-button { width: 100%; height: 100% } #ikspvq7i3h .ch5-button .cb-btn { width: 100%; height: 100% } #ikspvq7i3h .ch5-button--circle { align-items: center } #ikspvq7i3h .ccid-custom.ch5-button--default .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ikspvq7i3h .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ikspvq7i3h .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ikspvq7i3h .ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #ikspvq7i3h .ch5-button--circle.ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #ikspvq7i3h .ch5-button--circle .ch5-button-child { height: 109px } #ikspvq7i3h .ch5-button .ch5-button--label { position: absolute } #ikspvq7i3h .ch5-button--default .ch5-button--label { position: relative; buttonDefaultLabel_font-size: 0px; font-size: 0px; custom-font-size: 0px } #ikspvq7i3h .ch5-button-mode-state { height: inherit; width: inherit } #ikspvq7i3h[mode="0"] .ch5-button--default.ch5-button--label { buttonDefaultLabel_margin-top: 0px; buttonDefaultLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultLabel_margin-left: 0px; buttonDefaultLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ikspvq7i3h[mode="0"] .ch5-button--default { background-color: rgba(38, 40, 41, 0.95) } #ikspvq7i3h[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label { buttonDefaultPressedLabel_margin-top: 0px; buttonDefaultPressedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultPressedLabel_margin-left: 0px; buttonDefaultPressedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ikspvq7i3h[mode="0"][pressed="true"] .ch5-button--default { background-color: rgba(125, 126, 127, 0.4) } #ikspvq7i3h[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { background-color: rgba(125, 126, 127, 0.4) } #ikspvq7i3h[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label { buttonDefaultSelectedLabel_margin-top: 0px; buttonDefaultSelectedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultSelectedLabel_margin-left: 0px; buttonDefaultSelectedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ikspvq7i3h[mode="0"][selected="true"] .ch5-button--default { background-color: rgb(0, 46, 191) } #ikspvq7i3h[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { background-color: rgb(0, 46, 191) } #ikspvq7i3h .ch5-button--default { border-width: 0px; border-style: none; background-color: rgb(0,0,0) } #ikspvq7i3h .ch5-button--rounded-rectangle { border-radius: 10px } #ix9atmowdf { position: absolute; display: block; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; top: 270px; left: 144px; width: 166px; height: 109px; buttonDefaultLabel_font-size: 0 } #ix9atmowdf .ch5-button-child { position: fixed; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; height: 79px } #ix9atmowdf .ch5-button { width: 100%; height: 100% } #ix9atmowdf .ch5-button .cb-btn { width: 100%; height: 100% } #ix9atmowdf .ch5-button--circle { align-items: center } #ix9atmowdf .ccid-custom.ch5-button--default .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ix9atmowdf .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ix9atmowdf .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ix9atmowdf .ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #ix9atmowdf .ch5-button--circle.ch5-button--size-regular .cb-btn { width: 166px; height: 79px } #ix9atmowdf .ch5-button--circle .ch5-button-child { height: 79px } #ix9atmowdf .ch5-button .ch5-button--label { position: absolute } #ix9atmowdf .ch5-button--default .ch5-button--label { position: relative; buttonDefaultLabel_font-size: 0px; font-size: 0px; custom-font-size: 0px } #ix9atmowdf .ch5-button-mode-state { height: inherit; width: inherit } #ix9atmowdf[mode="0"] .ch5-button--default.ch5-button--label { buttonDefaultLabel_margin-top: 0px; buttonDefaultLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultLabel_margin-left: 0px; buttonDefaultLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ix9atmowdf[mode="0"] .ch5-button--default { background-color: rgba(38, 40, 41, 0.95) } #ix9atmowdf[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label { buttonDefaultPressedLabel_margin-top: 0px; buttonDefaultPressedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultPressedLabel_margin-left: 0px; buttonDefaultPressedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ix9atmowdf[mode="0"][pressed="true"] .ch5-button--default { background-color: rgba(125, 126, 127, 0.4) } #ix9atmowdf[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { background-color: rgba(125, 126, 127, 0.4) } #ix9atmowdf[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label { buttonDefaultSelectedLabel_margin-top: 0px; buttonDefaultSelectedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultSelectedLabel_margin-left: 0px; buttonDefaultSelectedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ix9atmowdf[mode="0"][selected="true"] .ch5-button--default { background-color: rgb(0, 46, 191) } #ix9atmowdf[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { background-color: rgb(0, 46, 191) } #ix9atmowdf .ch5-button--default { border-width: 0px; border-style: none; background-color: rgb(0,0,0) } #ix9atmowdf .ch5-button--rounded-rectangle { border-radius: 10px } #iqwqtc7oyz { position: absolute; display: block; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; top: 133px; left: 363px; width: 166px; height: 109px; buttonDefaultLabel_font-size: 0 } #iqwqtc7oyz .ch5-button-child { position: fixed; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; height: 109px } #iqwqtc7oyz .ch5-button { width: 100%; height: 100% } #iqwqtc7oyz .ch5-button .cb-btn { width: 100%; height: 100% } #iqwqtc7oyz .ch5-button--circle { align-items: center } #iqwqtc7oyz .ccid-custom.ch5-button--default .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iqwqtc7oyz .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iqwqtc7oyz .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iqwqtc7oyz .ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #iqwqtc7oyz .ch5-button--circle.ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #iqwqtc7oyz .ch5-button--circle .ch5-button-child { height: 109px } #iqwqtc7oyz .ch5-button .ch5-button--label { position: absolute } #iqwqtc7oyz .ch5-button--default .ch5-button--label { position: relative; buttonDefaultLabel_font-size: 0px; font-size: 0px; custom-font-size: 0px } #iqwqtc7oyz .ch5-button-mode-state { height: inherit; width: inherit } #iqwqtc7oyz[mode="0"] .ch5-button--default.ch5-button--label { buttonDefaultLabel_margin-top: 0px; buttonDefaultLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultLabel_margin-left: 0px; buttonDefaultLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iqwqtc7oyz[mode="0"] .ch5-button--default { background-color: rgba(38, 40, 41, 0.95) } #iqwqtc7oyz[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label { buttonDefaultPressedLabel_margin-top: 0px; buttonDefaultPressedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultPressedLabel_margin-left: 0px; buttonDefaultPressedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iqwqtc7oyz[mode="0"][pressed="true"] .ch5-button--default { background-color: rgba(125, 126, 127, 0.4) } #iqwqtc7oyz[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { background-color: rgba(125, 126, 127, 0.4) } #iqwqtc7oyz[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label { buttonDefaultSelectedLabel_margin-top: 0px; buttonDefaultSelectedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultSelectedLabel_margin-left: 0px; buttonDefaultSelectedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iqwqtc7oyz[mode="0"][selected="true"] .ch5-button--default { background-color: rgb(0, 46, 191) } #iqwqtc7oyz[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { background-color: rgb(0, 46, 191) } #iqwqtc7oyz .ch5-button--default { border-width: 0px; border-style: none; background-color: rgb(0,0,0) } #iqwqtc7oyz .ch5-button--rounded-rectangle { border-radius: 10px } #i8y25hjnsb { position: absolute; display: block; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; top: 270px; left: 363px; width: 166px; height: 109px; buttonDefaultLabel_font-size: 0 } #i8y25hjnsb .ch5-button-child { position: fixed; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; height: 109px } #i8y25hjnsb .ch5-button { width: 100%; height: 100% } #i8y25hjnsb .ch5-button .cb-btn { width: 100%; height: 100% } #i8y25hjnsb .ch5-button--circle { align-items: center } #i8y25hjnsb .ccid-custom.ch5-button--default .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #i8y25hjnsb .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #i8y25hjnsb .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #i8y25hjnsb .ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #i8y25hjnsb .ch5-button--circle.ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #i8y25hjnsb .ch5-button--circle .ch5-button-child { height: 109px } #i8y25hjnsb .ch5-button .ch5-button--label { position: absolute } #i8y25hjnsb .ch5-button--default .ch5-button--label { position: relative; buttonDefaultLabel_font-size: 0px; font-size: 0px; custom-font-size: 0px } #i8y25hjnsb .ch5-button-mode-state { height: inherit; width: inherit } #i8y25hjnsb[mode="0"] .ch5-button--default.ch5-button--label { buttonDefaultLabel_margin-top: 0px; buttonDefaultLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultLabel_margin-left: 0px; buttonDefaultLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #i8y25hjnsb[mode="0"] .ch5-button--default { background-color: rgba(38, 40, 41, 0.95) } #i8y25hjnsb[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label { buttonDefaultPressedLabel_margin-top: 0px; buttonDefaultPressedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultPressedLabel_margin-left: 0px; buttonDefaultPressedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #i8y25hjnsb[mode="0"][pressed="true"] .ch5-button--default { background-color: rgba(125, 126, 127, 0.4) } #i8y25hjnsb[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { background-color: rgba(125, 126, 127, 0.4) } #i8y25hjnsb[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label { buttonDefaultSelectedLabel_margin-top: 0px; buttonDefaultSelectedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultSelectedLabel_margin-left: 0px; buttonDefaultSelectedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #i8y25hjnsb[mode="0"][selected="true"] .ch5-button--default { background-color: rgb(0, 46, 191) } #i8y25hjnsb[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { background-color: rgb(0, 46, 191) } #i8y25hjnsb .ch5-button--default { border-width: 0px; border-style: none; background-color: rgb(0,0,0) } #i8y25hjnsb .ch5-button--rounded-rectangle { border-radius: 10px } #iwoa2d8gai { position: absolute; display: block; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; top: 187px; left: 581px; width: 166px; height: 109px; buttonDefaultLabel_font-size: 0 } #iwoa2d8gai .ch5-button-child { position: fixed; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; height: 109px } #iwoa2d8gai .ch5-button { width: 100%; height: 100% } #iwoa2d8gai .ch5-button .cb-btn { width: 100%; height: 100% } #iwoa2d8gai .ch5-button--circle { align-items: center } #iwoa2d8gai .ccid-custom.ch5-button--default .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iwoa2d8gai .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iwoa2d8gai .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iwoa2d8gai .ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #iwoa2d8gai .ch5-button--circle.ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #iwoa2d8gai .ch5-button--circle .ch5-button-child { height: 109px } #iwoa2d8gai .ch5-button .ch5-button--label { position: absolute } #iwoa2d8gai .ch5-button--default .ch5-button--label { position: relative; buttonDefaultLabel_font-size: 0px; font-size: 0px; custom-font-size: 0px } #iwoa2d8gai .ch5-button-mode-state { height: inherit; width: inherit } #iwoa2d8gai[mode="0"] .ch5-button--default.ch5-button--label { buttonDefaultLabel_margin-top: 0px; buttonDefaultLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultLabel_margin-left: 0px; buttonDefaultLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iwoa2d8gai[mode="0"] .ch5-button--default { background-color: rgba(38, 40, 41, 0.95) } #iwoa2d8gai[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label { buttonDefaultPressedLabel_margin-top: 0px; buttonDefaultPressedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultPressedLabel_margin-left: 0px; buttonDefaultPressedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iwoa2d8gai[mode="0"][pressed="true"] .ch5-button--default { background-color: rgba(125, 126, 127, 0.4) } #iwoa2d8gai[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { background-color: rgba(125, 126, 127, 0.4) } #iwoa2d8gai[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label { buttonDefaultSelectedLabel_margin-top: 0px; buttonDefaultSelectedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultSelectedLabel_margin-left: 0px; buttonDefaultSelectedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iwoa2d8gai[mode="0"][selected="true"] .ch5-button--default { background-color: rgb(0, 46, 191) } #iwoa2d8gai[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { background-color: rgb(0, 46, 191) } #iwoa2d8gai .ch5-button--default { border-width: 0px; border-style: none; background-color: rgb(0,0,0) } #iwoa2d8gai .ch5-button--rounded-rectangle { border-radius: 10px } #i9570k7t3t { min-height: 48px; position: absolute; line-height: normal; display: block !important; padding: 0; text-decoration: none; top: 389px; left: 89px; width: 319px; height: 40px; font-family: Roboto } #i9570k7t3t .ch5-text .ch5-text--span { max-height: max-content !important } #i9570k7t3t .ch5-text span.ch5-text--multiline-support-true { word-break: normal; display: block !important } #i9570k7t3t .ch5-text--horizontal-alignment-center { padding: 0 } #i9570k7t3t .ch5-text { background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0); border-width: medium; border-style: none; width: 319px; height: 40px; color: #1e3c60; font-size: 28px; custom-font-size: 28px } #ivld565nzo { position: absolute; display: block; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; top: 447px; left: 163px; width: 166px; height: 109px; buttonDefaultLabel_font-size: 0 } #ivld565nzo .ch5-button-child { position: fixed; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; height: 109px } #ivld565nzo .ch5-button { width: 100%; height: 100% } #ivld565nzo .ch5-button .cb-btn { width: 100%; height: 100% } #ivld565nzo .ch5-button--circle { align-items: center } #ivld565nzo .ccid-custom.ch5-button--default .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ivld565nzo .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ivld565nzo .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ivld565nzo .ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #ivld565nzo .ch5-button--circle.ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #ivld565nzo .ch5-button--circle .ch5-button-child { height: 109px } #ivld565nzo .ch5-button .ch5-button--label { position: absolute } #ivld565nzo .ch5-button--default .ch5-button--label { position: relative; buttonDefaultLabel_font-size: 0px; font-size: 0px; custom-font-size: 0px } #ivld565nzo .ch5-button-mode-state { height: inherit; width: inherit } #ivld565nzo[mode="0"] .ch5-button--default.ch5-button--label { buttonDefaultLabel_margin-top: 15px; buttonDefaultLabel_margin-bottom: 0px; margin-top: 30px; margin-bottom: 0px; buttonDefaultLabel_margin-left: 0px; buttonDefaultLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ivld565nzo[mode="0"] .ch5-button--default { background-color: rgba(38, 40, 41, 0.95) } #ivld565nzo[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label { buttonDefaultPressedLabel_margin-top: 15px; buttonDefaultPressedLabel_margin-bottom: 0px; margin-top: 30px; margin-bottom: 0px; buttonDefaultPressedLabel_margin-left: 0px; buttonDefaultPressedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ivld565nzo[mode="0"][pressed="true"] .ch5-button--default { background-color: rgba(125, 126, 127, 0.4) } #ivld565nzo[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { background-color: rgba(125, 126, 127, 0.4) } #ivld565nzo[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label { buttonDefaultSelectedLabel_margin-top: 15px; buttonDefaultSelectedLabel_margin-bottom: 0px; margin-top: 30px; margin-bottom: 0px; buttonDefaultSelectedLabel_margin-left: 0px; buttonDefaultSelectedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ivld565nzo[mode="0"][selected="true"] .ch5-button--default { background-color: rgb(0, 46, 191) } #ivld565nzo[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { background-color: rgb(0, 46, 191) } #ivld565nzo .ch5-button--default { border-width: 0px; border-style: none; background-color: rgb(0,0,0) } #ivld565nzo .ch5-button--rounded-rectangle { border-radius: 10px } #i22sg49v65 { min-height: 48px; position: absolute; line-height: normal; display: block !important; padding: 0; text-decoration: none; top: 389px; left: 483px; width: 319px; height: 40px; font-family: Roboto } #i22sg49v65 .ch5-text .ch5-text--span { max-height: max-content !important } #i22sg49v65 .ch5-text span.ch5-text--multiline-support-true { word-break: normal; display: block !important } #i22sg49v65 .ch5-text--horizontal-alignment-center { padding: 0 } #i22sg49v65 .ch5-text { background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0); border-width: medium; border-style: none; width: 319px; height: 40px; color: #1e3c60; font-size: 28px; custom-font-size: 28px } #iv9b6jjhk2 { position: absolute; display: block; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; top: 447px; left: 558px; width: 166px; height: 109px; buttonDefaultLabel_font-size: 0 } #iv9b6jjhk2 .ch5-button-child { position: fixed; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; height: 109px } #iv9b6jjhk2 .ch5-button { width: 100%; height: 100% } #iv9b6jjhk2 .ch5-button .cb-btn { width: 100%; height: 100% } #iv9b6jjhk2 .ch5-button--circle { align-items: center } #iv9b6jjhk2 .ccid-custom.ch5-button--default .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iv9b6jjhk2 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iv9b6jjhk2 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #iv9b6jjhk2 .ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #iv9b6jjhk2 .ch5-button--circle.ch5-button--size-regular .cb-btn { width: 166px; height: 109px } #iv9b6jjhk2 .ch5-button--circle .ch5-button-child { height: 109px } #iv9b6jjhk2 .ch5-button .ch5-button--label { position: absolute } #iv9b6jjhk2 .ch5-button--default .ch5-button--label { position: relative; buttonDefaultLabel_font-size: 0px; font-size: 0px; custom-font-size: 0px } #iv9b6jjhk2 .ch5-button-mode-state { height: inherit; width: inherit } #iv9b6jjhk2[mode="0"] .ch5-button--default.ch5-button--label { buttonDefaultLabel_margin-top: 15px; buttonDefaultLabel_margin-bottom: 0px; margin-top: 30px; margin-bottom: 0px; buttonDefaultLabel_margin-left: 0px; buttonDefaultLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iv9b6jjhk2[mode="0"] .ch5-button--default { background-color: rgba(38, 40, 41, 0.95) } #iv9b6jjhk2[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label { buttonDefaultPressedLabel_margin-top: 15px; buttonDefaultPressedLabel_margin-bottom: 0px; margin-top: 30px; margin-bottom: 0px; buttonDefaultPressedLabel_margin-left: 0px; buttonDefaultPressedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iv9b6jjhk2[mode="0"][pressed="true"] .ch5-button--default { background-color: rgba(125, 126, 127, 0.4) } #iv9b6jjhk2[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { background-color: rgba(125, 126, 127, 0.4) } #iv9b6jjhk2[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label { buttonDefaultSelectedLabel_margin-top: 15px; buttonDefaultSelectedLabel_margin-bottom: 0px; margin-top: 30px; margin-bottom: 0px; buttonDefaultSelectedLabel_margin-left: 0px; buttonDefaultSelectedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #iv9b6jjhk2[mode="0"][selected="true"] .ch5-button--default { background-color: rgb(0, 46, 191) } #iv9b6jjhk2[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { background-color: rgb(0, 46, 191) } #iv9b6jjhk2 .ch5-button--default { border-width: 0px; border-style: none; background-color: rgb(0,0,0) } #iv9b6jjhk2 .ch5-button--rounded-rectangle { border-radius: 10px } #wrapper { background-color: #ffffff } #ig5yhgnzp6s2q { width: 100%; height: 100%; left: 0px; top: 0px; position: absolute; z-index: -99; display: block; overflow: hidden } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "Room Control"
+PageMode = "absolute"
+Id = "7a85b4f0-54f4-439b-974c-be9f11a14ff9"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+id = "ig5yhgnzp6s2q"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+backgroundcolor = "rgba(173,185,200,0.79)"
+oldID = "i3dim"
+url = ""
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+id = "i79qrsypqj"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+componentName = "FormattedText_41"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 33px; color: rgb(30,60,96);\">Lights</span></p>"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "iyvi74nxxq"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Preset 1</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "iu64mnml99"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Preset 1</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "ixf3sfle38"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Preset 1</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "i48sbombqk"
+type = "default"
+assetid = "0"
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+iconposition = "first"
+orientation = "horizontal"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+size = "custom"
+id = "ikspvq7i3h"
+labelinnerhtml = "label"
+labelmode = "simple"
+componentName = "AdvancedButton_72"
+pageflip = "0"
+pd-receivestateselected = "70"
+sendeventontouch = "70"
+previewstate = "normal"
+assetid = "0"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "i8o07e68qv"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Preset 2</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "i5x7fntx6j"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Preset 2</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "ixh0kmh5f4"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Preset 2</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "i5kpoueb5b"
+type = "default"
+assetid = "0"
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+iconposition = "first"
+orientation = "horizontal"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+size = "custom"
+id = "ix9atmowdf"
+labelinnerhtml = "label"
+labelmode = "simple"
+componentName = "AdvancedButton_173"
+pageflip = "0"
+pd-receivestateselected = "71"
+sendeventontouch = "71"
+previewstate = "normal"
+assetid = "0"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "i3mlrcuwqa"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Meeting&nbsp;1</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "ic30d9ud3n"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Meeting&nbsp;1</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "icb5nvwzsg"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Meeting&nbsp;1</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "ijq3o2grcv"
+type = "default"
+assetid = "0"
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+iconposition = "first"
+orientation = "horizontal"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+size = "custom"
+id = "iqwqtc7oyz"
+labelinnerhtml = "label"
+labelmode = "simple"
+componentName = "AdvancedButton_194"
+pageflip = "0"
+pd-receivestateselected = "72"
+sendeventontouch = "72"
+previewstate = "normal"
+assetid = "0"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "i9k1fdlsqg"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Meeting 2</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "i5twhwzcbh"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Meeting 2</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "ita71jullq"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/074d2e4b-b0e7-468d-8cbb-8d1c134b7bc8/jei0jwc5.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Meeting 2</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "itd0rvfshy"
+type = "default"
+assetid = "0"
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+iconposition = "first"
+orientation = "horizontal"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+size = "custom"
+id = "i8y25hjnsb"
+labelinnerhtml = "label"
+labelmode = "simple"
+componentName = "AdvancedButton_205"
+pageflip = "0"
+pd-receivestateselected = "73"
+sendeventontouch = "73"
+previewstate = "normal"
+assetid = "0"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "i4idern5qu"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "58f0bc4f-7313-44a0-b645-63398ce9db1b"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/58f0bc4f-7313-44a0-b645-63398ce9db1b/taahse41.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "ip0l7yqrlo"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "58f0bc4f-7313-44a0-b645-63398ce9db1b"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/58f0bc4f-7313-44a0-b645-63398ce9db1b/taahse41.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "iuy8ue1lft"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "58f0bc4f-7313-44a0-b645-63398ce9db1b"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/58f0bc4f-7313-44a0-b645-63398ce9db1b/taahse41.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "iycxzpkodw"
+type = "default"
+assetid = "0"
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+iconposition = "first"
+orientation = "horizontal"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+size = "custom"
+id = "iwoa2d8gai"
+labelinnerhtml = "label"
+labelmode = "simple"
+componentName = "AdvancedButton_226"
+pageflip = "0"
+pd-receivestateselected = "75"
+sendeventontouch = "75"
+previewstate = "normal"
+assetid = "0"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+id = "i9570k7t3t"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+componentName = "FormattedText_57"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 33px; color: rgb(30,60,96);\">BluRay</span></p>"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "i8wce3dhy0"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/b3961dfc-45eb-437c-a5fc-190f87d2fb84/gd3ozfbf.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 22px; color: rgb(255,255,255);\">BluRay On/Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "irg186pony"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "58f0bc4f-7313-44a0-b645-63398ce9db1b"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/58f0bc4f-7313-44a0-b645-63398ce9db1b/taahse41.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 22px; color: rgb(255,255,255);\">BluRay On/Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "io9mr4bi6l"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "58f0bc4f-7313-44a0-b645-63398ce9db1b"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/58f0bc4f-7313-44a0-b645-63398ce9db1b/taahse41.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 22px; color: rgb(255,255,255);\">BluRay On/Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "ihf1qgvafp"
+type = "default"
+assetid = "0"
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+iconposition = "first"
+orientation = "horizontal"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+size = "custom"
+id = "ivld565nzo"
+labelinnerhtml = "label"
+labelmode = "simple"
+componentName = "AdvancedButton_238"
+pageflip = "0"
+pd-receivestateselected = "23"
+sendeventontouch = "23"
+previewstate = "normal"
+assetid = "0"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+id = "i22sg49v65"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+componentName = "FormattedText_139"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 33px; color: rgb(30,60,96);\">Tuner</span></p>"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "ib194mxrjf"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/b3961dfc-45eb-437c-a5fc-190f87d2fb84/gd3ozfbf.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 22px; color: rgb(255,255,255);\">Tuner&nbsp;On/Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "i1enyel2g2"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "58f0bc4f-7313-44a0-b645-63398ce9db1b"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/58f0bc4f-7313-44a0-b645-63398ce9db1b/taahse41.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 22px; color: rgb(255,255,255);\">Tuner&nbsp;On/Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "i4nuqjj4og"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "58f0bc4f-7313-44a0-b645-63398ce9db1b"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/58f0bc4f-7313-44a0-b645-63398ce9db1b/taahse41.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 22px; color: rgb(255,255,255);\">Tuner&nbsp;On/Off</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "ionk37u0x2"
+type = "default"
+assetid = "0"
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+iconposition = "first"
+orientation = "horizontal"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+size = "custom"
+id = "iv9b6jjhk2"
+labelinnerhtml = "label"
+labelmode = "simple"
+componentName = "AdvancedButton_4910"
+pageflip = "0"
+pd-receivestateselected = "22"
+sendeventontouch = "22"
+previewstate = "normal"
+assetid = "0"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+globalControlContract = "on"
+id = "is5tod65rp"
+componentName = "102 - Room Control"
+defaultWidth = "0"
+defaultHeight = "0"
+

@@ -1,0 +1,21 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 13:00:04.862286-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 13:00:04.862281-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = ""
+
+{AssetAttributes}
+
+[Attributes]
+Id = "0cb24397-539c-40c2-8fd6-3fcdbcc4818d"
+Name = "MTLRew"
+SourceUri = "MTLRew.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

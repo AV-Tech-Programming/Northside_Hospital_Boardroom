@@ -1,0 +1,21 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 13:00:04.833993-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 13:00:04.833988-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = ""
+
+{AssetAttributes}
+
+[Attributes]
+Id = "8f87a608-8dca-47b8-8ec5-74610a910435"
+Name = "MTLVolumeHi"
+SourceUri = "MTLVolumeHi.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

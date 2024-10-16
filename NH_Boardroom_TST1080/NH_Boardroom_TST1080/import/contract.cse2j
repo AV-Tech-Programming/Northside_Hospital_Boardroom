@@ -1,0 +1,88 @@
+{
+  "name": "TSW-1070",
+  "timestamp": "2024-10-16 13:00:04.520",
+  "version": "1.0.0.0",
+  "schema_version": 1,
+  "extra_value": "Crestron SGD Imported Project",
+  "signals": {
+    "states": {
+      "boolean": {},
+      "numeric": {},
+      "string": {}
+    },
+    "events": {
+      "boolean": {
+        "BlurayControl.DPad11.Up": {
+          "joinId": 1,
+          "smartObjectId": 1
+        },
+        "BlurayControl.DPad11.Down": {
+          "joinId": 2,
+          "smartObjectId": 1
+        },
+        "BlurayControl.DPad11.Left": {
+          "joinId": 3,
+          "smartObjectId": 1
+        },
+        "BlurayControl.DPad11.Right": {
+          "joinId": 4,
+          "smartObjectId": 1
+        },
+        "BlurayControl.DPad11.Center": {
+          "joinId": 5,
+          "smartObjectId": 1
+        },
+        "TunerControl.SimpleKeypad2.Press1": {
+          "joinId": 1,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press2": {
+          "joinId": 2,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press3": {
+          "joinId": 3,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press4": {
+          "joinId": 4,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press5": {
+          "joinId": 5,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press6": {
+          "joinId": 6,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press7": {
+          "joinId": 7,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press8": {
+          "joinId": 8,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press9": {
+          "joinId": 9,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.Press0": {
+          "joinId": 10,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.PressStar": {
+          "joinId": 11,
+          "smartObjectId": 2
+        },
+        "TunerControl.SimpleKeypad2.PressHash": {
+          "joinId": 12,
+          "smartObjectId": 2
+        }
+      },
+      "numeric": {},
+      "string": {}
+    }
+  }
+}

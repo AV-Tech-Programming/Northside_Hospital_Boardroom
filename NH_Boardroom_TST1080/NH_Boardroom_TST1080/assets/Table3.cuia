@@ -1,0 +1,21 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 13:00:04.790934-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 13:00:04.79093-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = ""
+
+{AssetAttributes}
+
+[Attributes]
+Id = "3482746f-995d-4c05-80fd-5f80f9e55e26"
+Name = "Table3"
+SourceUri = "Table3.png"
+AspectRatio = "2.6666666666666665"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

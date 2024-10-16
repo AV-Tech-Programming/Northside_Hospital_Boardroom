@@ -1,0 +1,19 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "1.3501.16.0",
+    "_created": "2024-10-16T12:58:14.9808148-04:00",
+    "_lastModifiedByAppHost": "1.3501.16.0",
+    "_modified": "2024-10-16T13:00:34.516451-04:00"
+  },
+  "_solution": {
+    "_name": "NH_Boardroom_TST1080",
+    "_projects": [
+      {
+        "_name": "NH_Boardroom_TST1080",
+        "_filename": "NH_Boardroom_TST1080/NH_Boardroom_TST1080.cuip",
+        "_datetime": "2024-10-16T17:00:05.62861Z"
+      }
+    ]
+  }
+}

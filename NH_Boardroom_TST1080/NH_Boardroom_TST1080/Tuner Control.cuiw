@@ -1,0 +1,325 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 15:18:35.547732-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 15:18:35.547728-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<div categoryname="Widget Components" globalcontrolcontract="on" id="il8inm5s7q" componentname="105 - Tuner Control" defaultwidth="0" defaultheight="0" class="widget-container" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" size="custom" id="ibzv5pf3x5" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_571" pageflip="0" pd-receivestateselected="22" sendeventontouch="22" previewstate="normal" assetid="0" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="i15c66gxl5" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="ib7yh90dbi" state="normal" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="b3961dfc-45eb-437c-a5fc-190f87d2fb84" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>POWER</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="io3b10ps5u" state="pressed" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="b3961dfc-45eb-437c-a5fc-190f87d2fb84" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>POWER</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="il7ou8us0b" state="selected" type="default" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="b3961dfc-45eb-437c-a5fc-190f87d2fb84" valignlabel="bottom" labelinnerhtml="<p><span  style=&quot; font-size: 25px; color: rgb(255,255,255);&quot;>POWER</span></p>" labelmodeadvnbtn="advanced" halignlabel="center" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-keypad shape="rounded-rectangle" size="x-large" type="default" indexid="idx" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" affectedbypreviewstate="True" usecontractforhideasteriskbutton="false" usecontractforhidepoundbutton="false" textorientation="top" disabled="false" showextrabutton="false" customvstheme="custom" ccid_themecssset="true" id="id2lpbct8x" componentname="Tuner Number Pad" pd-contractname="105TunerControl.SimpleKeypad2" hideasteriskbutton="false" hidepoundbutton="false" ccid_linksendreceive="True" sendeventonclickstart="Contract Enabled" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]">
+              <ch5-keypad-button pressed="false" id="i6z00yfw8x" key="button1" componentname="button1" labelmajor="1" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" id="iqrc08wt7s" key="button2" componentname="button2" labelmajor="2" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="ivizdzdjkb" key="button3" componentname="button3" labelmajor="3" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="ilhle8bzbh" key="button4" componentname="button4" labelmajor="4" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="i7d5vytozt" key="button5" componentname="button5" labelmajor="5" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="iyk6weqkq1" key="button6" componentname="button6" labelmajor="6" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="iybezscv1v" key="button7" componentname="button7" labelmajor="7" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="il2chutpy7" key="button8" componentname="button8" labelmajor="8" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="i4m01e6u0s" key="button9" componentname="button9" labelmajor="9" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="ilbhbo3trt" key="button0" componentname="button0" labelmajor="0" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="i7apbnl65m" key="buttonstar" componentname="buttonstar" labelmajor="Ch-" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" id="i5hhms1g00" key="buttonhash" componentname="buttonhash" labelmajor="Ch+" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" id="i23i23mvkc" key="buttonextra" componentname="buttonextra" labelmajor="" labelminor=""></ch5-keypad-button></ch5-keypad></div>
+
+{Css}
+@media (max-width: 99999px) { #il8inm5s7q { width: 892px; height: 612px; left: 0; top: 0; position: absolute } .widget-container { background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); z-index: 0 } #ibzv5pf3x5 { position: absolute; display: block; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; top: 445px; left: 21px; width: 166px; height: 118px } #ibzv5pf3x5 .ch5-button-child { position: fixed; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60%; height: 79px } #ibzv5pf3x5 .ch5-button { width: 100%; height: 100% } #ibzv5pf3x5 .ch5-button .cb-btn { width: 100%; height: 100% } #ibzv5pf3x5 .ch5-button--circle { align-items: center } #ibzv5pf3x5 .ccid-custom.ch5-button--default .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ibzv5pf3x5 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ibzv5pf3x5 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 60%; height: 60%; buttonDefaultImage_width: 60%; buttonDefaultImage_height: 60% } #ibzv5pf3x5 .ch5-button--size-regular .cb-btn { width: 166px; height: 118px } #ibzv5pf3x5 .ch5-button--circle.ch5-button--size-regular .cb-btn { width: 166px; height: 79px } #ibzv5pf3x5 .ch5-button--circle .ch5-button-child { height: 79px } #ibzv5pf3x5 .ch5-button .ch5-button--label { position: absolute } #ibzv5pf3x5 .ch5-button--default .ch5-button--label { position: relative } #ibzv5pf3x5 .ch5-button-mode-state { height: inherit; width: inherit } #ibzv5pf3x5[mode="0"] .ch5-button--default.ch5-button--label { buttonDefaultLabel_margin-top: 0px; buttonDefaultLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultLabel_margin-left: 0px; buttonDefaultLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ibzv5pf3x5[mode="0"] .ch5-button--default { background-color: rgba(38, 40, 41, 0.95) } #ibzv5pf3x5[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label { buttonDefaultPressedLabel_margin-top: 0px; buttonDefaultPressedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultPressedLabel_margin-left: 0px; buttonDefaultPressedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ibzv5pf3x5[mode="0"][pressed="true"] .ch5-button--default { background-color: rgba(125, 126, 127, 0.4) } #ibzv5pf3x5[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { background-color: rgba(125, 126, 127, 0.4) } #ibzv5pf3x5[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label { buttonDefaultSelectedLabel_margin-top: 0px; buttonDefaultSelectedLabel_margin-bottom: 0px; margin-top: 0px; margin-bottom: 0px; buttonDefaultSelectedLabel_margin-left: 0px; buttonDefaultSelectedLabel_margin-right: 0px; margin-left: 0px; margin-right: 0px } #ibzv5pf3x5[mode="0"][selected="true"] .ch5-button--default { background-color: rgb(0, 46, 191) } #ibzv5pf3x5[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { background-color: rgb(0, 46, 191) } #ibzv5pf3x5 .ch5-button--default { border-width: 0px; border-style: none; background-color: rgb(0,0,0) } #ibzv5pf3x5 .ch5-button--rounded-rectangle { border-radius: 10px } #id2lpbct8x .ch5-keypad { width: inherit; height: inherit; min-width: 210px; min-height: 278px } #id2lpbct8x .ch5-keypad.ch5-keypad--type-default .keypad-btn button { background-color: rgb(0,0,0); keypadDefault_background-color: rgb(0,0,0); border-color: rgb(0,0,0); keypadDefault_border-color: rgb(0,0,0); border-style: none; border-width: 1px; keypadDefault_border-width: 1px; color: rgb(255,255,255); keypadDefault_color: rgb(255,255,255) } #id2lpbct8x .ch5-keypad.ch5-keypad--type-default .keypad-btn-pressed.keypad-btn button { background-color: rgba(0,0,0,0.5); keypadActiveDefault_background-color: rgba(0,0,0,0.5); border-color: rgb(0,0,0); keypadActiveDefault_border-color: rgba(0,0,0,0.5); border-style: none; border-width: 1px; keypadActiveDefault_border-width: 1px; color: rgb(255,255,255); keypadActiveDefault_color: rgb(255,255,255) } #id2lpbct8x { position: absolute; display: block; font-family: Roboto; min-width: 210px; min-height: 278px; top: 103px; left: 270px; width: 312px; height: 414px; keypadDefault_background-color: rgb(0,0,0); keypadActiveDefault_background-color: rgba(0,0,0,0.5); keypadDefault_border-color: rgb(0,0,0); keypadActiveDefault_border-color: rgba(0,0,0,0.5); keypadDefault_border-width: 1px; keypadActiveDefault_border-width: 1px; keypadDefault_color: rgb(255,255,255); keypadActiveDefault_color: rgb(255,255,255) } #wrapper { background-color: #ffffff } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "Tuner Control"
+PageMode = "absolute"
+Id = "99382140-0aeb-4c87-b1bd-c7fbe992be7e"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components.Components]]
+Type = "Ch5 Button Mode"
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+id = "ib7yh90dbi"
+state = "normal"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/b3961dfc-45eb-437c-a5fc-190f87d2fb84/gd3ozfbf.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+id = "io3b10ps5u"
+state = "pressed"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/b3961dfc-45eb-437c-a5fc-190f87d2fb84/gd3ozfbf.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Type = "Ch5 Button Mode State"
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+id = "il7ou8us0b"
+state = "selected"
+type = "default"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
+iconurl = "StaticFiles/6b73ea17-4334-434e-8823-91dacd6dbd38/b3961dfc-45eb-437c-a5fc-190f87d2fb84/gd3ozfbf.png"
+valignlabel = "bottom"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
+labelmodeadvnbtn = "advanced"
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+id = "i15c66gxl5"
+type = "default"
+assetid = "0"
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+iconposition = "first"
+orientation = "horizontal"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+size = "custom"
+id = "ibzv5pf3x5"
+labelinnerhtml = "label"
+labelmode = "simple"
+componentName = "AdvancedButton_571"
+pageflip = "0"
+pd-receivestateselected = "22"
+sendeventontouch = "22"
+previewstate = "normal"
+assetid = "0"
+[[Elements.Components]]
+Type = "Ch5 Keypad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "i6z00yfw8x"
+key = "button1"
+componentName = "button1"
+labelmajor = "1"
+labelminor = ""
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "iqrc08wt7s"
+key = "button2"
+componentName = "button2"
+labelmajor = "2"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "ivizdzdjkb"
+key = "button3"
+componentName = "button3"
+labelmajor = "3"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "ilhle8bzbh"
+key = "button4"
+componentName = "button4"
+labelmajor = "4"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "i7d5vytozt"
+key = "button5"
+componentName = "button5"
+labelmajor = "5"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "iyk6weqkq1"
+key = "button6"
+componentName = "button6"
+labelmajor = "6"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "iybezscv1v"
+key = "button7"
+componentName = "button7"
+labelmajor = "7"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "il2chutpy7"
+key = "button8"
+componentName = "button8"
+labelmajor = "8"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "i4m01e6u0s"
+key = "button9"
+componentName = "button9"
+labelmajor = "9"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "ilbhbo3trt"
+key = "button0"
+componentName = "button0"
+labelmajor = "0"
+labelminor = " "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "i7apbnl65m"
+key = "buttonstar"
+componentName = "buttonstar"
+labelmajor = "Ch-"
+labelminor = ""
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "i5hhms1g00"
+key = "buttonhash"
+componentName = "buttonhash"
+labelmajor = "Ch+"
+labelminor = ""
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+id = "i23i23mvkc"
+key = "buttonextra"
+componentName = "buttonextra"
+labelmajor = ""
+labelminor = ""
+
+[Elements.Components.Attributes]
+shape = "rounded-rectangle"
+size = "x-large"
+type = "default"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+affectedByPreviewState = "True"
+useContractForHideAsteriskButton = "false"
+useContractForHidePoundButton = "false"
+textorientation = "top"
+disabled = "false"
+showextrabutton = "false"
+customvstheme = "custom"
+ccid_themeCSSSet = "true"
+id = "id2lpbct8x"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+componentName = "Tuner Number Pad"
+pd-contractName = "105TunerControl.SimpleKeypad2"
+hideasteriskbutton = "false"
+hidepoundbutton = "false"
+ccid_linkSendReceive = "True"
+sendeventonclickstart = "Contract Enabled"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+globalControlContract = "on"
+id = "il8inm5s7q"
+componentName = "105 - Tuner Control"
+defaultWidth = "0"
+defaultHeight = "0"
+

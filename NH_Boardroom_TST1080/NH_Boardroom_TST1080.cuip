@@ -1,0 +1,25 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 12:58:14.944082-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 12:58:14.944078-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = "1.2600.1"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+ComponentKey = "UiEditor"
+Name = "NH_Boardroom_TST1080"
+ThemeId = "dark-theme.css"
+ThemePageColor = "#4d4d4d"
+SdkId = "CH5:2.11.1"
+DeviceResolutionIds = "D-L-TST1080-1280-0800"
+ipId = "03"
+ProjectSchemaVersion = "4"
+

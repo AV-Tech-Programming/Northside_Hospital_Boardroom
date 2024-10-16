@@ -1,0 +1,21 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 13:00:04.971771-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 13:00:04.971766-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = ""
+
+{AssetAttributes}
+
+[Attributes]
+Id = "597252bb-c75d-485a-bb8e-a23687315cda"
+Name = "x1280"
+SourceUri = "x1280.jpg"
+AspectRatio = "1.5"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

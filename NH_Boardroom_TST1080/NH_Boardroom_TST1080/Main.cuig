@@ -1,0 +1,148 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3501.16.0"
+Created = 2024-10-16 15:26:35.52838-04:00
+LastModifiedByAppHost = "1.3501.16.0"
+Modified = 2024-10-16 15:26:35.528375-04:00
+CreatedByProjectApp = "1.3501.16.0"
+LastModifiedByProjectApp = "1.3501.16.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" id="irh6wbrh1o" componentname="Background" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" imgbackgroundcolor="transparent" backgroundcolor="rgba(0,40,80,1)" assetid="0" ccid_linksendreceive="True">
+              </ch5-background><ch5-template templateid="w0815a978-f0d2-4996-a4c5-c7b1d31c561b" id="i1f1i" componentname="Sidebar" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;]"></ch5-template><ch5-datetime timeoffsethours="0" tagname="ch5-datetime" horizontalalignment="center" id="ifzkhmopcu" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;]" displaytype="time" stylefordate="MM-dd-yyyy" ccid_linksendreceive="True" ccid_themecssset="true" componentname="DigitalDateTime1" display24hourformat="false" displayampm="true" displaytwodigitshour="false" displayseconds="false"></ch5-datetime><ch5-template devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;]" id="imblo4q2i1" templateid="wb2dcbcfc-fa3a-483a-8d24-a471ec3a82e3" componentname="101 - Sources_4" pd-receivestateshow="12" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;]" id="i8hwlka5i0" templateid="w7a85b4f0-54f4-439b-974c-be9f11a14ff9" componentname="102 - Room Control_5" pd-receivestateshow="13" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;]" id="iwfzxxzy01" templateid="w0e2312d9-702a-4de7-8811-562c165379f3" componentname="104 - Bluray Control_6" pd-receivestateshow="15" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;]" id="i8xt62hhgu" templateid="w44d543e4-f9a6-4509-b7b5-c6f66f9435c2" componentname="103 - Audio Control_7" pd-receivestateshow="14" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;]" id="iez22ivz79" templateid="w99382140-0aeb-4c87-b1bd-c7fbe992be7e" componentname="105 - Tuner Control_8" pd-receivestateshow="16" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;,&quot;iPad (Landscape), iPad Air (Landscape)&quot;]" id="intlv6o17r" templateid="w897bbf8a-332c-42b7-b0a5-8a1d93a76cd7" componentname="200 - Shutdown Confirm_9" pd-receivestateshow="10" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template>
+
+{Css}
+@media (max-width: 99999px){#ifzkhmopcu{position:absolute;display:block;font-family:Roboto;top:11px;left:1063px;width:206px;height:63px;}#ifzkhmopcu .ch5-datetime{font-family:Roboto;width:206px;height:63px;font-size:31px;custom-font-size:31px;color:rgb(255,255,255);}#i8hwlka5i0{display:none;position:absolute;top:93px;left:321px;}#iwfzxxzy01{display:none;position:absolute;top:93px;left:321px;}#i8xt62hhgu{display:none;position:absolute;top:93px;left:321px;}#iez22ivz79{display:none;position:absolute;top:93px;left:321px;}#intlv6o17r{display:none;position:absolute;top:0px;left:0px;}#i1f1i{display:block;left:0px;top:0px;position:absolute;width:auto;height:auto;}#imblo4q2i1{display:none;position:absolute;top:93px;left:321px;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#i1f1i{top:0px;}#imblo4q2i1{display:none;}#iez22ivz79{left:321px;top:93px;display:none;}#ifzkhmopcu{left:1063px;top:11px;position:absolute;width:206px;height:63px;}}@media (orientation: landscape) and (max-width: 1181px) and (max-height: 777px), (orientation: landscape) and (max-width: 1179px){#irh6wbrh1o{width:1180px;height:776px;}#ifzkhmopcu{top:19px;left:958px;position:absolute;}#imblo4q2i1{display:block;top:107px;left:272px;position:absolute;}#i8hwlka5i0{left:272px;top:107px;}#iwfzxxzy01{left:272px;top:107px;}#i8xt62hhgu{left:272px;top:107px;}#iez22ivz79{left:272px;top:107px;}#intlv6o17r{display:block;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Main"
+PageMode = "absolute"
+Id = "c2bc0c5e-fe95-4382-82c4-ed364226dd0f"
+StartPage = "False"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "20"
+
+[[Elements]]
+Type = "Ch5 Background"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+id = "irh6wbrh1o"
+componentName = "Background"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
+imgbackgroundcolor = "transparent"
+backgroundcolor = "rgba(0,40,80,1)"
+assetid = "0"
+ccid_linkSendReceive = "True"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+templateid = "w0815a978-f0d2-4996-a4c5-c7b1d31c561b"
+id = "i1f1i"
+componentName = "Sidebar"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\",\"iPad (Landscape), iPad Air (Landscape)\"]"
+[[Elements]]
+Type = "Ch5 Date Time"
+Editable = true
+
+[Elements.Attributes]
+timeoffsethours = "0"
+tagName = "ch5-datetime"
+horizontalalignment = "center"
+id = "ifzkhmopcu"
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\",\"iPad (Landscape), iPad Air (Landscape)\"]"
+displaytype = "time"
+stylefordate = "MM-dd-yyyy"
+ccid_linkSendReceive = "True"
+ccid_themeCSSSet = "true"
+componentName = "DigitalDateTime1"
+display24hourformat = "false"
+displayampm = "true"
+displaytwodigitshour = "false"
+displayseconds = "false"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\",\"iPad (Landscape), iPad Air (Landscape)\"]"
+id = "imblo4q2i1"
+templateid = "wb2dcbcfc-fa3a-483a-8d24-a471ec3a82e3"
+componentName = "101 - Sources_4"
+pd-receivestateshow = "12"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\",\"iPad (Landscape), iPad Air (Landscape)\"]"
+id = "i8hwlka5i0"
+templateid = "w7a85b4f0-54f4-439b-974c-be9f11a14ff9"
+componentName = "102 - Room Control_5"
+pd-receivestateshow = "13"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\",\"iPad (Landscape), iPad Air (Landscape)\"]"
+id = "iwfzxxzy01"
+templateid = "w0e2312d9-702a-4de7-8811-562c165379f3"
+componentName = "104 - Bluray Control_6"
+pd-receivestateshow = "15"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\",\"iPad (Landscape), iPad Air (Landscape)\"]"
+id = "i8xt62hhgu"
+templateid = "w44d543e4-f9a6-4509-b7b5-c6f66f9435c2"
+componentName = "103 - Audio Control_7"
+pd-receivestateshow = "14"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\",\"iPad (Landscape), iPad Air (Landscape)\"]"
+id = "iez22ivz79"
+templateid = "w99382140-0aeb-4c87-b1bd-c7fbe992be7e"
+componentName = "105 - Tuner Control_8"
+pd-receivestateshow = "16"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\",\"iPad (Landscape), iPad Air (Landscape)\"]"
+id = "intlv6o17r"
+templateid = "w897bbf8a-332c-42b7-b0a5-8a1d93a76cd7"
+componentName = "200 - Shutdown Confirm_9"
+pd-receivestateshow = "10"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+

@@ -1,0 +1,87 @@
+{
+  "name": "NH_Boardroom_TST1080",
+  "timestamp": "2024-10-16T19:26:29.9316184+00:00",
+  "version": "1.0.0.0",
+  "schema_version": 1,
+  "extra_value": "",
+  "signals": {
+    "events": {
+      "boolean": {
+        "BlurayControl.BlurayDpad.Up": {
+          "joinId": 3,
+          "smartObjectId": 12
+        },
+        "BlurayControl.BlurayDpad.Down": {
+          "joinId": 4,
+          "smartObjectId": 12
+        },
+        "BlurayControl.BlurayDpad.Left": {
+          "joinId": 5,
+          "smartObjectId": 12
+        },
+        "BlurayControl.BlurayDpad.Right": {
+          "joinId": 6,
+          "smartObjectId": 12
+        },
+        "BlurayControl.BlurayDpad.Center": {
+          "joinId": 7,
+          "smartObjectId": 12
+        },
+        "TunerControl.TunerNumberPad.Press1": {
+          "joinId": 3,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press2": {
+          "joinId": 4,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press3": {
+          "joinId": 5,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press4": {
+          "joinId": 6,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press5": {
+          "joinId": 7,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press6": {
+          "joinId": 8,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press7": {
+          "joinId": 9,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press8": {
+          "joinId": 10,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press9": {
+          "joinId": 11,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.Press0": {
+          "joinId": 12,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.PressStar": {
+          "joinId": 13,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.PressHash": {
+          "joinId": 14,
+          "smartObjectId": 17
+        },
+        "TunerControl.TunerNumberPad.PressExtraButton": {
+          "joinId": 15,
+          "smartObjectId": 17
+        }
+      },
+      "numeric": {},
+      "string": {}
+    }
+  }
+}

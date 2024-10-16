@@ -1,0 +1,21 @@
+<Device Model="CP4N">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-VEQ4" DeviceId="12"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TS-1070" DeviceId="03"/>
+      <Device Model="Crestron_Go" DeviceId="04" Name="Crestron Go"/>
+      <Device Model="TST-1080" DeviceId="05"/>
+      <Device Model="DM-NVX-35x" DeviceId="06" Name="PC1 & PC2 DM-NVX-35x"/>
+      <Device Model="DM-NVX-E30" DeviceId="07" Name="Laptop 3 DM-NVX-E30"/>
+      <Device Model="DM-NVX-E30" DeviceId="08" Name="Blu-ray DM-NVX-E30"/>
+      <Device Model="DM-NVX-E30" DeviceId="09" Name="Laptop Rear DM-NVX-E30"/>
+      <Device Model="DM-NVX-E30" DeviceId="0A" Name="Laptop Front DM-NVX-E30"/>
+      <Device Model="DM-NVX-36x" DeviceId="0B" Name="Video Wall DM-NVX-36x"/>
+      <Device Model="DM-NVX-35x" DeviceId="0C" Name="Wireless & Tuner DM-NVX-35x"/>
+      <Device Model="DM-NVX-E30" DeviceId="0D" Name="Doc Camera DM-NVX-E30"/>
+      <Device Model="DM-NVX-36x" DeviceId="0E" Name="Computer 3 DM-NVX-36x"/>
+      <Device Model="DM-NVX-36x" DeviceId="0F" Name="Audio DM-NVX-36x"/>
+      <Device Model="XPanel 3.0 Crestron HTML5" DeviceId="10"/>
+   </Network>
+</Device>
