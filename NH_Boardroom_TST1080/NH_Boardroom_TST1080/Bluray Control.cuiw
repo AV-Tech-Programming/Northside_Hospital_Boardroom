@@ -1,9 +1,9 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "1.3501.16.0"
-Created = 2024-10-17 13:20:23.775311-04:00
+Created = 2024-10-17 15:16:07.601519-04:00
 LastModifiedByAppHost = "1.3501.16.0"
-Modified = 2024-10-17 13:20:23.775307-04:00
+Modified = 2024-10-17 15:16:07.601515-04:00
 CreatedByProjectApp = "1.3501.16.0"
 LastModifiedByProjectApp = "1.3501.16.0"
 MinimumProjectApp = "1.2600.1"
@@ -24,8 +24,12 @@ MinimumProjectApp = "1.2600.1"
               <ch5-dpad-button componentname="Up" id="ijdqwtw2qw" key="up" ccid_imageicontype="iconclass"></ch5-dpad-button><ch5-dpad-button componentname="Down" id="iyh99mlowy" key="down" ccid_imageicontype="iconclass"></ch5-dpad-button><ch5-dpad-button componentname="Left" id="ij1ptuno13" key="left" ccid_imageicontype="iconclass"></ch5-dpad-button><ch5-dpad-button componentname="Right" id="i30c90qkmu" key="right" ccid_imageicontype="iconclass"></ch5-dpad-button><ch5-dpad-button componentname="Center" id="i8y7wxoniu" key="center" label="OK" ccid_imageicontype="iconclass"></ch5-dpad-button></ch5-dpad><ch5-text clearlabel="false" labelmodeadvncomponent="simple" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" id="ib229nn2rupl4" ccid_themecssset="true" ccid_linksendreceive="True" componentname="FormattedText_65" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="Blu-ray Control" oldid="ibohjwkg6a">
               </ch5-text></div>
 
+
+
 {Css}
 @media (max-width: 99999px){#imaqnzjj25{width:892px;height:612px;left:0;top:0;position:absolute;}.widget-container{background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);z-index:0;}#i9edaycdak{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:100px;left:573px;width:196px;height:98px;}#i9edaycdak .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:98px;}#i9edaycdak .ch5-button{width:100%;height:100%;}#i9edaycdak .ch5-button .cb-btn{width:100%;height:100%;}#i9edaycdak .ch5-button--circle{align-items:center;}#i9edaycdak .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i9edaycdak .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i9edaycdak .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i9edaycdak .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i9edaycdak .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i9edaycdak .ch5-button--circle .ch5-button-child{height:98px;}#i9edaycdak .ch5-button .ch5-button--label{position:absolute;}#i9edaycdak .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#i9edaycdak .ch5-button-mode-state{height:inherit;width:inherit;}#i9edaycdak[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i9edaycdak[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i9edaycdak[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i9edaycdak[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i9edaycdak[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i9edaycdak[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i9edaycdak[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i9edaycdak[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i9edaycdak .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i9edaycdak .ch5-button--rounded-rectangle{border-radius:10px;}#i5y1z4obv7{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:482px;left:122px;width:196px;height:98px;}#i5y1z4obv7 .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:98px;}#i5y1z4obv7 .ch5-button{width:100%;height:100%;}#i5y1z4obv7 .ch5-button .cb-btn{width:100%;height:100%;}#i5y1z4obv7 .ch5-button--circle{align-items:center;}#i5y1z4obv7 .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i5y1z4obv7 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i5y1z4obv7 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i5y1z4obv7 .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i5y1z4obv7 .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i5y1z4obv7 .ch5-button--circle .ch5-button-child{height:98px;}#i5y1z4obv7 .ch5-button .ch5-button--label{position:absolute;}#i5y1z4obv7 .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#i5y1z4obv7 .ch5-button-mode-state{height:inherit;width:inherit;}#i5y1z4obv7[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i5y1z4obv7[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i5y1z4obv7[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i5y1z4obv7[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i5y1z4obv7[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i5y1z4obv7[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i5y1z4obv7[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i5y1z4obv7[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i5y1z4obv7 .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i5y1z4obv7 .ch5-button--rounded-rectangle{border-radius:10px;}#i0jg91lngg{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:365px;left:607px;width:196px;height:98px;}#i0jg91lngg .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:98px;}#i0jg91lngg .ch5-button{width:100%;height:100%;}#i0jg91lngg .ch5-button .cb-btn{width:100%;height:100%;}#i0jg91lngg .ch5-button--circle{align-items:center;}#i0jg91lngg .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i0jg91lngg .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i0jg91lngg .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i0jg91lngg .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i0jg91lngg .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i0jg91lngg .ch5-button--circle .ch5-button-child{height:98px;}#i0jg91lngg .ch5-button .ch5-button--label{position:absolute;}#i0jg91lngg .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#i0jg91lngg .ch5-button-mode-state{height:inherit;width:inherit;}#i0jg91lngg[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i0jg91lngg[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i0jg91lngg[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i0jg91lngg[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i0jg91lngg[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i0jg91lngg[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i0jg91lngg[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i0jg91lngg[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i0jg91lngg .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i0jg91lngg .ch5-button--rounded-rectangle{border-radius:10px;}#ibhw8orvfh{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:365px;left:122px;width:196px;height:98px;}#ibhw8orvfh .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#ibhw8orvfh .ch5-button{width:100%;height:100%;}#ibhw8orvfh .ch5-button .cb-btn{width:100%;height:100%;}#ibhw8orvfh .ch5-button--circle{align-items:center;}#ibhw8orvfh .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ibhw8orvfh .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ibhw8orvfh .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ibhw8orvfh .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#ibhw8orvfh .ch5-button--circle.ch5-button--size-regular .cb-btn{width:166px;height:79px;}#ibhw8orvfh .ch5-button--circle .ch5-button-child{height:79px;}#ibhw8orvfh .ch5-button .ch5-button--label{position:absolute;}#ibhw8orvfh .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#ibhw8orvfh .ch5-button-mode-state{height:inherit;width:inherit;}#ibhw8orvfh[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ibhw8orvfh[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#ibhw8orvfh[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ibhw8orvfh[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#ibhw8orvfh[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#ibhw8orvfh[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ibhw8orvfh[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#ibhw8orvfh[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#ibhw8orvfh .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#ibhw8orvfh .ch5-button--rounded-rectangle{border-radius:10px;}#i7g2h91ozj .ch5-dpad--default{background-color:black;}#i7g2h91ozj ch5-button-child{background-color:black;}#i7g2h91ozj .ch5-dpad.ch5-dpad--size-regular .dpad-container{width:150px;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child{background-color:#242B30;dpadDefault_background-color:#242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up::after{box-shadow:-10px 1px 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up::before{box-shadow:10px 1px 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down::after{box-shadow:10px -1px 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down::before{box-shadow:-10px -1px 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.right::after{box-shadow:-10px -1px 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.left::after{box-shadow:10px -1px 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.left::before{box-shadow:-10px -1px 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.right::before{box-shadow:10px -1px 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-center--pressed{background-color:#0f0f0f;dpadActiveDefault_background-color:#0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default ch5-dpad-button[class*="--pressed"]{background-color:#0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-right--pressed{background-color:#0f0f0f;dpadActiveDefault_background-color:#0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-left--pressed{background-color:#0f0f0f;dpadActiveDefault_background-color:#0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-down--pressed{background-color:#0f0f0f;dpadActiveDefault_background-color:#0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-up--pressed{background-color:#0f0f0f;dpadActiveDefault_background-color:#0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]::after{box-shadow:-10px 1px 0 0 #0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]::before{box-shadow:10px 1px 0 0 #0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]::after{box-shadow:10px -1px 0 0 #0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]::before{box-shadow:-10px -1px 0 0 #0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.right[class*="--pressed"]::after{box-shadow:-10px -1px 0 0 #0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.left[class*="--pressed"]::after{box-shadow:10px -1px 0 0 #0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.left[class*="--pressed"]::before{box-shadow:-10px -1px 0 0 #0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.right[class*="--pressed"]::before{box-shadow:10px -1px 0 0 #0f0f0f;}#i7g2h91ozj span.dpad-btn-label{font-family:Roboto;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.left::after{box-shadow:10px 0 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.left::before{box-shadow:-10px 0 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.right::after{box-shadow:-10px 0 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.right::before{box-shadow:10px 0 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left::after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right::before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left::after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right::before{box-shadow:10px 0 0 0 #0f0f0f !important;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left::before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right::after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left::before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right::after{box-shadow:-10px 0 0 0 #0f0f0f !important;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right::after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right::after{box-shadow:-10px 0 0 0 #0f0f0f !important;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right::before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right::before{box-shadow:10px 0 0 0 #0f0f0f !important;}#i3dim{width:100%;height:100%;left:0;top:0;position:absolute;z-index:-99;display:block;overflow:hidden;}#iwtn5e0guj{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:100px;left:123px;width:196px;height:98px;}#iwtn5e0guj .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:98px;}#iwtn5e0guj .ch5-button{width:100%;height:100%;}#iwtn5e0guj .ch5-button .cb-btn{width:100%;height:100%;}#iwtn5e0guj .ch5-button--circle{align-items:center;}#iwtn5e0guj .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iwtn5e0guj .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iwtn5e0guj .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iwtn5e0guj .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#iwtn5e0guj .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:98px;}#iwtn5e0guj .ch5-button--circle .ch5-button-child{height:98px;}#iwtn5e0guj .ch5-button .ch5-button--label{position:absolute;}#iwtn5e0guj .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#iwtn5e0guj .ch5-button-mode-state{height:inherit;width:inherit;}#iwtn5e0guj[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iwtn5e0guj[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#iwtn5e0guj[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iwtn5e0guj[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#iwtn5e0guj[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#iwtn5e0guj[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iwtn5e0guj[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#iwtn5e0guj[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#iwtn5e0guj .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#iwtn5e0guj .ch5-button--rounded-rectangle{border-radius:10px;}#ia1vy93igj{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:100px;left:348px;width:196px;height:98px;}#ia1vy93igj .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:98px;}#ia1vy93igj .ch5-button{width:100%;height:100%;}#ia1vy93igj .ch5-button .cb-btn{width:100%;height:100%;}#ia1vy93igj .ch5-button--circle{align-items:center;}#ia1vy93igj .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ia1vy93igj .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ia1vy93igj .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ia1vy93igj .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#ia1vy93igj .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:98px;}#ia1vy93igj .ch5-button--circle .ch5-button-child{height:98px;}#ia1vy93igj .ch5-button .ch5-button--label{position:absolute;}#ia1vy93igj .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#ia1vy93igj .ch5-button-mode-state{height:inherit;width:inherit;}#ia1vy93igj[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ia1vy93igj[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#ia1vy93igj[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ia1vy93igj[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#ia1vy93igj[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#ia1vy93igj[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ia1vy93igj[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#ia1vy93igj[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#ia1vy93igj .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#ia1vy93igj .ch5-button--rounded-rectangle{border-radius:10px;}#i4c0k6wlzu{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:227px;left:675px;width:196px;height:98px;}#i4c0k6wlzu .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:98px;}#i4c0k6wlzu .ch5-button{width:100%;height:100%;}#i4c0k6wlzu .ch5-button .cb-btn{width:100%;height:100%;}#i4c0k6wlzu .ch5-button--circle{align-items:center;}#i4c0k6wlzu .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i4c0k6wlzu .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i4c0k6wlzu .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i4c0k6wlzu .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i4c0k6wlzu .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i4c0k6wlzu .ch5-button--circle .ch5-button-child{height:98px;}#i4c0k6wlzu .ch5-button .ch5-button--label{position:absolute;}#i4c0k6wlzu .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#i4c0k6wlzu .ch5-button-mode-state{height:inherit;width:inherit;}#i4c0k6wlzu[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i4c0k6wlzu[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i4c0k6wlzu[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i4c0k6wlzu[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i4c0k6wlzu[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i4c0k6wlzu[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i4c0k6wlzu[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i4c0k6wlzu[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i4c0k6wlzu .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i4c0k6wlzu .ch5-button--rounded-rectangle{border-radius:10px;}#i4p2trxs88{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:227px;left:21px;width:196px;height:98px;}#i4p2trxs88 .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#i4p2trxs88 .ch5-button{width:100%;height:100%;}#i4p2trxs88 .ch5-button .cb-btn{width:100%;height:100%;}#i4p2trxs88 .ch5-button--circle{align-items:center;}#i4p2trxs88 .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i4p2trxs88 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i4p2trxs88 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i4p2trxs88 .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#i4p2trxs88 .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:79px;}#i4p2trxs88 .ch5-button--circle .ch5-button-child{height:79px;}#i4p2trxs88 .ch5-button .ch5-button--label{position:absolute;}#i4p2trxs88 .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#i4p2trxs88 .ch5-button-mode-state{height:inherit;width:inherit;}#i4p2trxs88[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i4p2trxs88[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i4p2trxs88[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i4p2trxs88[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i4p2trxs88[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i4p2trxs88[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i4p2trxs88[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i4p2trxs88[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i4p2trxs88 .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i4p2trxs88 .ch5-button--rounded-rectangle{border-radius:10px;}#iztii120do{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:227px;left:239px;width:196px;height:98px;}#iztii120do .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:98px;}#iztii120do .ch5-button{width:100%;height:100%;}#iztii120do .ch5-button .cb-btn{width:100%;height:100%;}#iztii120do .ch5-button--circle{align-items:center;}#iztii120do .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iztii120do .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iztii120do .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iztii120do .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#iztii120do .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:98px;}#iztii120do .ch5-button--circle .ch5-button-child{height:98px;}#iztii120do .ch5-button .ch5-button--label{position:absolute;}#iztii120do .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#iztii120do .ch5-button-mode-state{height:inherit;width:inherit;}#iztii120do[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iztii120do[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#iztii120do[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iztii120do[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#iztii120do[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#iztii120do[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iztii120do[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#iztii120do[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#iztii120do .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#iztii120do .ch5-button--rounded-rectangle{border-radius:10px;}#ijdf7gm65j{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:227px;left:457px;width:196px;height:98px;}#ijdf7gm65j .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:98px;}#ijdf7gm65j .ch5-button{width:100%;height:100%;}#ijdf7gm65j .ch5-button .cb-btn{width:100%;height:100%;}#ijdf7gm65j .ch5-button--circle{align-items:center;}#ijdf7gm65j .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ijdf7gm65j .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ijdf7gm65j .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ijdf7gm65j .ch5-button--size-regular .cb-btn{width:196px;height:98px;}#ijdf7gm65j .ch5-button--circle.ch5-button--size-regular .cb-btn{width:196px;height:98px;}#ijdf7gm65j .ch5-button--circle .ch5-button-child{height:98px;}#ijdf7gm65j .ch5-button .ch5-button--label{position:absolute;}#ijdf7gm65j .ch5-button--default .ch5-button--label{position:relative;buttonDefaultLabel_font-size:0px;font-size:0px;custom-font-size:0px;}#ijdf7gm65j .ch5-button-mode-state{height:inherit;width:inherit;}#ijdf7gm65j[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ijdf7gm65j[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#ijdf7gm65j[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ijdf7gm65j[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#ijdf7gm65j[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#ijdf7gm65j[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ijdf7gm65j[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#ijdf7gm65j[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#ijdf7gm65j .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#ijdf7gm65j .ch5-button--rounded-rectangle{border-radius:10px;}#i7g2h91ozj{position:absolute;display:block;font-family:Roboto;top:355px;left:349px;width:200px;height:200px;dpadDefault_background-color:#242B30;dpadActiveDefault_background-color:#0f0f0f;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.left:after{box-shadow:10px 0 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.left:before{box-shadow:-10px 0 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.right:after{box-shadow:-10px 0 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.right:before{box-shadow:10px 0 0 0 #242B30;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:before{box-shadow:10px 0 0 0 #0f0f0f !important;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:after{box-shadow:-10px 0 0 0 #0f0f0f !important;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left:before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left:before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:after{box-shadow:-10px 0 0 0 #0f0f0f !important;}#i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right::before, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i7g2h91ozj.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:before{box-shadow:10px 0 0 0 #0f0f0f !important;}#ib229nn2rupl4{min-height:48px;position:absolute;line-height:normal;display:block !important;padding:0;text-decoration:none;top:10px;left:10px;width:427px;height:48px;font-family:Roboto;text-shadow:1px 1px 2px black;}#ib229nn2rupl4 .ch5-text .ch5-text--span{max-height:max-content !important;}#ib229nn2rupl4 .ch5-text span.ch5-text--multiline-support-true{word-break:normal;display:block !important;}#ib229nn2rupl4 .ch5-text--horizontal-alignment-center{padding:0;}#ib229nn2rupl4 .ch5-text{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);border-width:medium;border-style:none;width:427px;height:48px;color:#ffffff;font-size:28px;custom-font-size:28px;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#imaqnzjj25{width:892px;height:612px;left:0;top:0;position:absolute;}#ib229nn2rupl4{width:427px;left:10px;top:10px;position:absolute;height:48px;text-shadow:1px 1px 2px black;}}
+
+
 
 {PageAttributes}
 
@@ -35,15 +39,23 @@ PageMode = "absolute"
 Id = "0e2312d9-702a-4de7-8811-562c165379f3"
 
 [[Elements]]
+Name = ""
 Type = "widgetContainer"
+Status = ""
+Content = ""
 Classes = ["widget-container"]
 
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Background"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -57,19 +69,31 @@ componentName = "Background"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
 backgroundcolor = "rgba(173,185,200,0.79)"
+url = ""
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -83,13 +107,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0cb24397-539c-40c2-8fd6-3fcdbcc4818d"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0cb24397-539c-40c2-8fd6-3fcdbcc4818d/gpd42w4w.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0cb24397-539c-40c2-8fd6-3fcdbcc4818d/uirtdcus.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">REW</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -103,13 +130,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0cb24397-539c-40c2-8fd6-3fcdbcc4818d"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0cb24397-539c-40c2-8fd6-3fcdbcc4818d/gpd42w4w.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0cb24397-539c-40c2-8fd6-3fcdbcc4818d/uirtdcus.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">REW</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -123,7 +153,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0cb24397-539c-40c2-8fd6-3fcdbcc4818d"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0cb24397-539c-40c2-8fd6-3fcdbcc4818d/gpd42w4w.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0cb24397-539c-40c2-8fd6-3fcdbcc4818d/uirtdcus.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">REW</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -169,18 +199,29 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -194,13 +235,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "3b7128e8-3aec-48db-b3a4-215fbdd270e7"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/3b7128e8-3aec-48db-b3a4-215fbdd270e7/suzwglnu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/3b7128e8-3aec-48db-b3a4-215fbdd270e7/owcirovr.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PLAY</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -214,13 +258,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "3b7128e8-3aec-48db-b3a4-215fbdd270e7"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/3b7128e8-3aec-48db-b3a4-215fbdd270e7/suzwglnu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/3b7128e8-3aec-48db-b3a4-215fbdd270e7/owcirovr.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PLAY</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -234,7 +281,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "3b7128e8-3aec-48db-b3a4-215fbdd270e7"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/3b7128e8-3aec-48db-b3a4-215fbdd270e7/suzwglnu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/3b7128e8-3aec-48db-b3a4-215fbdd270e7/owcirovr.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PLAY</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -279,18 +326,29 @@ sendeventontouch = "33"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -304,13 +362,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "33a67452-5359-468e-8cf0-8b1ee8dcf2d9"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/33a67452-5359-468e-8cf0-8b1ee8dcf2d9/nkc3tifl.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/33a67452-5359-468e-8cf0-8b1ee8dcf2d9/2wxypi2x.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">STOP</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -324,13 +385,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "33a67452-5359-468e-8cf0-8b1ee8dcf2d9"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/33a67452-5359-468e-8cf0-8b1ee8dcf2d9/nkc3tifl.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/33a67452-5359-468e-8cf0-8b1ee8dcf2d9/2wxypi2x.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">STOP</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -344,7 +408,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "33a67452-5359-468e-8cf0-8b1ee8dcf2d9"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/33a67452-5359-468e-8cf0-8b1ee8dcf2d9/nkc3tifl.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/33a67452-5359-468e-8cf0-8b1ee8dcf2d9/2wxypi2x.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">STOP</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -389,18 +453,29 @@ sendeventontouch = "34"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -414,13 +489,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "bc75ec4a-acb7-4a77-88c0-6e0dec7f052a"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/bc75ec4a-acb7-4a77-88c0-6e0dec7f052a/ixxwmxgk.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/bc75ec4a-acb7-4a77-88c0-6e0dec7f052a/q0btulqj.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PAUSE</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -434,13 +512,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "bc75ec4a-acb7-4a77-88c0-6e0dec7f052a"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/bc75ec4a-acb7-4a77-88c0-6e0dec7f052a/ixxwmxgk.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/bc75ec4a-acb7-4a77-88c0-6e0dec7f052a/q0btulqj.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PAUSE</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -454,7 +535,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "bc75ec4a-acb7-4a77-88c0-6e0dec7f052a"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/bc75ec4a-acb7-4a77-88c0-6e0dec7f052a/ixxwmxgk.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/bc75ec4a-acb7-4a77-88c0-6e0dec7f052a/q0btulqj.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PAUSE</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -499,18 +580,29 @@ sendeventontouch = "35"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -524,13 +616,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0db68ce3-2de7-4659-b35f-4885e79440b0"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0db68ce3-2de7-4659-b35f-4885e79440b0/rjohfwzm.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0db68ce3-2de7-4659-b35f-4885e79440b0/0jhszz4z.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">FFWD</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -544,13 +639,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0db68ce3-2de7-4659-b35f-4885e79440b0"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0db68ce3-2de7-4659-b35f-4885e79440b0/rjohfwzm.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0db68ce3-2de7-4659-b35f-4885e79440b0/0jhszz4z.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">FFWD</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -564,7 +662,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0db68ce3-2de7-4659-b35f-4885e79440b0"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0db68ce3-2de7-4659-b35f-4885e79440b0/rjohfwzm.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0db68ce3-2de7-4659-b35f-4885e79440b0/0jhszz4z.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">FFWD</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -609,18 +707,29 @@ sendeventontouch = "37"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -634,13 +743,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0e3973ad-bc2f-4ae3-9d74-959d5d19b99c"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0e3973ad-bc2f-4ae3-9d74-959d5d19b99c/tlfzenws.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0e3973ad-bc2f-4ae3-9d74-959d5d19b99c/eh1ypgdm.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PREV</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -654,13 +766,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0e3973ad-bc2f-4ae3-9d74-959d5d19b99c"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0e3973ad-bc2f-4ae3-9d74-959d5d19b99c/tlfzenws.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0e3973ad-bc2f-4ae3-9d74-959d5d19b99c/eh1ypgdm.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PREV</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -674,7 +789,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0e3973ad-bc2f-4ae3-9d74-959d5d19b99c"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0e3973ad-bc2f-4ae3-9d74-959d5d19b99c/tlfzenws.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0e3973ad-bc2f-4ae3-9d74-959d5d19b99c/eh1ypgdm.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">PREV</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -719,18 +834,29 @@ sendeventontouch = "43"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -744,13 +870,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "38edd210-0adc-447d-bfad-7bfa2689c03e"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/38edd210-0adc-447d-bfad-7bfa2689c03e/ojjrrv1c.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/38edd210-0adc-447d-bfad-7bfa2689c03e/nufpdzyu.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">NEXT</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -764,13 +893,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "38edd210-0adc-447d-bfad-7bfa2689c03e"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/38edd210-0adc-447d-bfad-7bfa2689c03e/ojjrrv1c.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/38edd210-0adc-447d-bfad-7bfa2689c03e/nufpdzyu.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">NEXT</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -784,7 +916,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "38edd210-0adc-447d-bfad-7bfa2689c03e"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/38edd210-0adc-447d-bfad-7bfa2689c03e/ojjrrv1c.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/38edd210-0adc-447d-bfad-7bfa2689c03e/nufpdzyu.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">NEXT</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -829,18 +961,29 @@ sendeventontouch = "44"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -854,13 +997,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0c80428e-b453-48da-9128-2ba812ca45b2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0c80428e-b453-48da-9128-2ba812ca45b2/nemfouez.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0c80428e-b453-48da-9128-2ba812ca45b2/lneesmfd.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">EJECT</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -874,13 +1020,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0c80428e-b453-48da-9128-2ba812ca45b2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0c80428e-b453-48da-9128-2ba812ca45b2/nemfouez.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0c80428e-b453-48da-9128-2ba812ca45b2/lneesmfd.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">EJECT</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -894,7 +1043,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "0c80428e-b453-48da-9128-2ba812ca45b2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/0c80428e-b453-48da-9128-2ba812ca45b2/nemfouez.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/0c80428e-b453-48da-9128-2ba812ca45b2/lneesmfd.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">EJECT</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -939,18 +1088,29 @@ sendeventontouch = "42"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -964,13 +1124,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/b3961dfc-45eb-437c-a5fc-190f87d2fb84/vmccaugu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/b3961dfc-45eb-437c-a5fc-190f87d2fb84/12wcf5db.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -984,13 +1147,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/b3961dfc-45eb-437c-a5fc-190f87d2fb84/vmccaugu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/b3961dfc-45eb-437c-a5fc-190f87d2fb84/12wcf5db.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1004,7 +1170,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/b3961dfc-45eb-437c-a5fc-190f87d2fb84/vmccaugu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/b3961dfc-45eb-437c-a5fc-190f87d2fb84/12wcf5db.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -1049,18 +1215,29 @@ sendeventontouch = "23"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1074,13 +1251,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "5034a5da-b4bf-4f49-81e2-f2168f0c9131"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/5034a5da-b4bf-4f49-81e2-f2168f0c9131/32v5pobh.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/5034a5da-b4bf-4f49-81e2-f2168f0c9131/qex1qpra.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">MENU</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1094,13 +1274,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "5034a5da-b4bf-4f49-81e2-f2168f0c9131"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/5034a5da-b4bf-4f49-81e2-f2168f0c9131/32v5pobh.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/5034a5da-b4bf-4f49-81e2-f2168f0c9131/qex1qpra.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">MENU</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1114,7 +1297,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "5034a5da-b4bf-4f49-81e2-f2168f0c9131"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/5034a5da-b4bf-4f49-81e2-f2168f0c9131/32v5pobh.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/5034a5da-b4bf-4f49-81e2-f2168f0c9131/qex1qpra.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">MENU</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -1159,15 +1342,22 @@ sendeventontouch = "31"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Dpad"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
 Name = "ch5-dpad-button"
 Type = "Ch5 Dpad Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Up"
@@ -1178,6 +1368,8 @@ ccid_imageIconType = "iconclass"
 [[Elements.Components.Components]]
 Name = "ch5-dpad-button"
 Type = "Ch5 Dpad Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Down"
@@ -1188,6 +1380,8 @@ ccid_imageIconType = "iconclass"
 [[Elements.Components.Components]]
 Name = "ch5-dpad-button"
 Type = "Ch5 Dpad Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Left"
@@ -1198,6 +1392,8 @@ ccid_imageIconType = "iconclass"
 [[Elements.Components.Components]]
 Name = "ch5-dpad-button"
 Type = "Ch5 Dpad Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Right"
@@ -1208,6 +1404,8 @@ ccid_imageIconType = "iconclass"
 [[Elements.Components.Components]]
 Name = "ch5-dpad-button"
 Type = "Ch5 Dpad Button"
+Status = ""
+Content = ""
 
 [Elements.Components.Components.Attributes]
 componentName = "Center"
@@ -1237,11 +1435,16 @@ pd-contractName = "104BlurayControl.DPad11"
 disabled = "false"
 sendeventonclickstart = "Contract Enabled"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Text"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]

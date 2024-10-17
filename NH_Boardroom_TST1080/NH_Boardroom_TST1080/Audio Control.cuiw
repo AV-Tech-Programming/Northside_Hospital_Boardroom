@@ -1,9 +1,9 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "1.3501.16.0"
-Created = 2024-10-17 13:17:59.503032-04:00
+Created = 2024-10-17 15:16:07.580535-04:00
 LastModifiedByAppHost = "1.3501.16.0"
-Modified = 2024-10-17 13:17:59.503028-04:00
+Modified = 2024-10-17 15:16:07.580531-04:00
 CreatedByProjectApp = "1.3501.16.0"
 LastModifiedByProjectApp = "1.3501.16.0"
 MinimumProjectApp = "1.2600.1"
@@ -33,8 +33,12 @@ MinimumProjectApp = "1.2600.1"
               <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="i0mr2mte6n" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="i0h83jxyf4" state="normal" type="default" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" labelinnerhtml="<p><span  style=&quot; font-size: 29px; color: rgb(255,255,255);&quot;>50%</span></p>" labelmodeadvnbtn="advanced" valignlabel="middle" halignlabel="center" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="i3nwuh1lef" state="pressed" type="default" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" labelinnerhtml="<p><span  style=&quot; font-size: 29px; color: rgb(255,255,255);&quot;>50%</span></p>" labelmodeadvnbtn="advanced" valignlabel="middle" halignlabel="center" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="inomsusxp0" state="selected" type="default" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" labelinnerhtml="<p><span  style=&quot; font-size: 29px; color: rgb(255,255,255);&quot;>50%</span></p>" labelmodeadvnbtn="advanced" valignlabel="middle" halignlabel="center" assetid="0"></ch5-button-mode-state></ch5-button-mode></ch5-button><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" iconposition="first" orientation="horizontal" ccid_themecssset="true" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" size="custom" id="iii9dhy6ps" labelinnerhtml="label" labelmode="simple" componentname="AdvancedButton_4422" pageflip="0" pd-receivestateselected="160" sendeventontouch="160" previewstate="normal" assetid="0" componentwasresized="true">
               <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" id="ig1e0a8gh9" type="default" assetid="0"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" id="is66hpdgs6" state="normal" type="default" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" labelinnerhtml="<p><span  style=&quot; font-size: 29px; color: rgb(255,255,255);&quot;>75%</span></p>" labelmodeadvnbtn="advanced" valignlabel="middle" halignlabel="center" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" id="ixffv4ocra" state="pressed" type="default" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" labelinnerhtml="<p><span  style=&quot; font-size: 29px; color: rgb(255,255,255);&quot;>75%</span></p>" labelmodeadvnbtn="advanced" valignlabel="middle" halignlabel="center" assetid="0"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" id="ivl1w6mbdj" state="selected" type="default" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" labelinnerhtml="<p><span  style=&quot; font-size: 29px; color: rgb(255,255,255);&quot;>75%</span></p>" labelmodeadvnbtn="advanced" valignlabel="middle" halignlabel="center" assetid="0"></ch5-button-mode-state></ch5-button-mode></ch5-button></div>
 
+
+
 {Css}
 @media (max-width: 99999px){#isf8dcpazo{width:892px;height:612px;left:0;top:0;position:absolute;}.widget-container{background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);z-index:0;}#ihze73uyte{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:151px;left:12px;width:138px;height:79px;}#ihze73uyte .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#ihze73uyte .ch5-button{width:100%;height:100%;}#ihze73uyte .ch5-button .cb-btn{width:100%;height:100%;}#ihze73uyte .ch5-button--circle{align-items:center;}#ihze73uyte .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ihze73uyte .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ihze73uyte .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ihze73uyte .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#ihze73uyte .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#ihze73uyte .ch5-button--circle .ch5-button-child{height:79px;}#ihze73uyte .ch5-button .ch5-button--label{position:absolute;}#ihze73uyte .ch5-button--default .ch5-button--label{position:relative;}#ihze73uyte .ch5-button-mode-state{height:inherit;width:inherit;}#ihze73uyte[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ihze73uyte[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#ihze73uyte[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ihze73uyte[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#ihze73uyte[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#ihze73uyte[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ihze73uyte[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#ihze73uyte[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#ihze73uyte .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#ihze73uyte .ch5-button--rounded-rectangle{border-radius:10px;}#i9qdjog5ao{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:247px;left:12px;width:138px;height:79px;}#i9qdjog5ao .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#i9qdjog5ao .ch5-button{width:100%;height:100%;}#i9qdjog5ao .ch5-button .cb-btn{width:100%;height:100%;}#i9qdjog5ao .ch5-button--circle{align-items:center;}#i9qdjog5ao .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i9qdjog5ao .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i9qdjog5ao .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i9qdjog5ao .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#i9qdjog5ao .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#i9qdjog5ao .ch5-button--circle .ch5-button-child{height:79px;}#i9qdjog5ao .ch5-button .ch5-button--label{position:absolute;}#i9qdjog5ao .ch5-button--default .ch5-button--label{position:relative;}#i9qdjog5ao .ch5-button-mode-state{height:inherit;width:inherit;}#i9qdjog5ao[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i9qdjog5ao[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i9qdjog5ao[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i9qdjog5ao[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i9qdjog5ao[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i9qdjog5ao[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i9qdjog5ao[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i9qdjog5ao[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i9qdjog5ao .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i9qdjog5ao .ch5-button--rounded-rectangle{border-radius:10px;}#ises2y9316{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:343px;left:12px;width:138px;height:79px;}#ises2y9316 .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#ises2y9316 .ch5-button{width:100%;height:100%;}#ises2y9316 .ch5-button .cb-btn{width:100%;height:100%;}#ises2y9316 .ch5-button--circle{align-items:center;}#ises2y9316 .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ises2y9316 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ises2y9316 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ises2y9316 .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#ises2y9316 .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#ises2y9316 .ch5-button--circle .ch5-button-child{height:79px;}#ises2y9316 .ch5-button .ch5-button--label{position:absolute;}#ises2y9316 .ch5-button--default .ch5-button--label{position:relative;}#ises2y9316 .ch5-button-mode-state{height:inherit;width:inherit;}#ises2y9316[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ises2y9316[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#ises2y9316[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ises2y9316[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#ises2y9316[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#ises2y9316[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ises2y9316[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#ises2y9316[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#ises2y9316 .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#ises2y9316 .ch5-button--rounded-rectangle{border-radius:10px;}#iyyogb5qv8{font-family:Roboto;position:absolute;display:block;top:151px;left:162px;height:271px;}#iyyogb5qv8 .noUi-target{background-color:rgba(0,0,0,0.4);sliderTarget_background-color:rgba(0,0,0,0.4);}#iyyogb5qv8 .ch5-slider.ch5-slider--orientation--horizontal.ch5-slider--size--regular .ch5-slider-button-container{width:100% !important;}#iyyogb5qv8 .ch5-slider.ch5-slider--orientation--vertical.ch5-slider--size--regular .ch5-slider-button-container{height:271px;}#iyyogb5qv8 .noUi-connect{background-color:rgba(0,122,255,0.95);sliderActiveTarget_background-color:#007afff2;}#ibohjwkg6a .ch5-text .ch5-text--span{max-height:max-content !important;}#ibohjwkg6a .ch5-text span.ch5-text--multiline-support-true{word-break:normal;display:block !important;}#ibohjwkg6a .ch5-text--horizontal-alignment-center{padding:0;}#ibohjwkg6a .ch5-text{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);border-width:medium;border-style:none;width:427px;height:48px;color:#ffffff;font-size:28px;custom-font-size:28px;}#iljtqih0gt .ch5-text .ch5-text--span{max-height:max-content !important;}#iljtqih0gt .ch5-text span.ch5-text--multiline-support-true{word-break:normal;display:block !important;}#iljtqih0gt .ch5-text--horizontal-alignment-center{padding:0;}#iljtqih0gt .ch5-text{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);border-width:medium;border-style:none;width:191px;height:40px;color:#ffffff;font-size:26px;custom-font-size:26px;border-top-left-radius:0;border-top-right-radius:0;border-radius:0 0 0 0;}#i0sgqdscpy{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:151px;left:232px;width:138px;height:79px;}#i0sgqdscpy .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#i0sgqdscpy .ch5-button{width:100%;height:100%;}#i0sgqdscpy .ch5-button .cb-btn{width:100%;height:100%;}#i0sgqdscpy .ch5-button--circle{align-items:center;}#i0sgqdscpy .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i0sgqdscpy .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i0sgqdscpy .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i0sgqdscpy .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#i0sgqdscpy .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#i0sgqdscpy .ch5-button--circle .ch5-button-child{height:79px;}#i0sgqdscpy .ch5-button .ch5-button--label{position:absolute;}#i0sgqdscpy .ch5-button--default .ch5-button--label{position:relative;}#i0sgqdscpy .ch5-button-mode-state{height:inherit;width:inherit;}#i0sgqdscpy[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i0sgqdscpy[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i0sgqdscpy[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i0sgqdscpy[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i0sgqdscpy[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i0sgqdscpy[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i0sgqdscpy[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i0sgqdscpy[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i0sgqdscpy .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i0sgqdscpy .ch5-button--rounded-rectangle{border-radius:10px;}#in8prvd7gu{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:343px;left:232px;width:138px;height:79px;}#in8prvd7gu .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#in8prvd7gu .ch5-button{width:100%;height:100%;}#in8prvd7gu .ch5-button .cb-btn{width:100%;height:100%;}#in8prvd7gu .ch5-button--circle{align-items:center;}#in8prvd7gu .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#in8prvd7gu .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#in8prvd7gu .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#in8prvd7gu .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#in8prvd7gu .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#in8prvd7gu .ch5-button--circle .ch5-button-child{height:79px;}#in8prvd7gu .ch5-button .ch5-button--label{position:absolute;}#in8prvd7gu .ch5-button--default .ch5-button--label{position:relative;}#in8prvd7gu .ch5-button-mode-state{height:inherit;width:inherit;}#in8prvd7gu[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#in8prvd7gu[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#in8prvd7gu[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#in8prvd7gu[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#in8prvd7gu[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#in8prvd7gu[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#in8prvd7gu[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#in8prvd7gu[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#in8prvd7gu .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#in8prvd7gu .ch5-button--rounded-rectangle{border-radius:10px;}#ioktczrgh1{font-family:Roboto;position:absolute;display:block;top:151px;left:382px;height:271px;}#ioktczrgh1 .noUi-target{background-color:rgba(0,0,0,0.4);sliderTarget_background-color:rgba(0,0,0,0.4);}#ioktczrgh1 .ch5-slider.ch5-slider--orientation--horizontal.ch5-slider--size--regular .ch5-slider-button-container{width:100% !important;}#ioktczrgh1 .ch5-slider.ch5-slider--orientation--vertical.ch5-slider--size--regular .ch5-slider-button-container{height:271px;}#ioktczrgh1 .noUi-connect{background-color:rgba(0,122,255,0.95);sliderActiveTarget_background-color:#007afff2;}#ie13ilt2jh .ch5-text .ch5-text--span{max-height:max-content !important;}#ie13ilt2jh .ch5-text span.ch5-text--multiline-support-true{word-break:normal;display:block !important;}#ie13ilt2jh .ch5-text--horizontal-alignment-center{padding:0;}#ie13ilt2jh .ch5-text{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);border-width:medium;border-style:none;width:191px;height:40px;color:#ffffff;font-size:26px;custom-font-size:26px;border-top-left-radius:0;border-top-right-radius:0;border-radius:0 0 0 0;}#i15s24qsah{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:151px;left:452px;width:138px;height:79px;}#i15s24qsah .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#i15s24qsah .ch5-button{width:100%;height:100%;}#i15s24qsah .ch5-button .cb-btn{width:100%;height:100%;}#i15s24qsah .ch5-button--circle{align-items:center;}#i15s24qsah .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i15s24qsah .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i15s24qsah .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i15s24qsah .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#i15s24qsah .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#i15s24qsah .ch5-button--circle .ch5-button-child{height:79px;}#i15s24qsah .ch5-button .ch5-button--label{position:absolute;}#i15s24qsah .ch5-button--default .ch5-button--label{position:relative;}#i15s24qsah .ch5-button-mode-state{height:inherit;width:inherit;}#i15s24qsah[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i15s24qsah[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i15s24qsah[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i15s24qsah[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i15s24qsah[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i15s24qsah[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i15s24qsah[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i15s24qsah[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i15s24qsah .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i15s24qsah .ch5-button--rounded-rectangle{border-radius:10px;}#i7wou4mgh7{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:343px;left:452px;width:138px;height:79px;}#i7wou4mgh7 .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#i7wou4mgh7 .ch5-button{width:100%;height:100%;}#i7wou4mgh7 .ch5-button .cb-btn{width:100%;height:100%;}#i7wou4mgh7 .ch5-button--circle{align-items:center;}#i7wou4mgh7 .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i7wou4mgh7 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i7wou4mgh7 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#i7wou4mgh7 .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#i7wou4mgh7 .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#i7wou4mgh7 .ch5-button--circle .ch5-button-child{height:79px;}#i7wou4mgh7 .ch5-button .ch5-button--label{position:absolute;}#i7wou4mgh7 .ch5-button--default .ch5-button--label{position:relative;}#i7wou4mgh7 .ch5-button-mode-state{height:inherit;width:inherit;}#i7wou4mgh7[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i7wou4mgh7[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#i7wou4mgh7[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i7wou4mgh7[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#i7wou4mgh7[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#i7wou4mgh7[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#i7wou4mgh7[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#i7wou4mgh7[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#i7wou4mgh7 .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#i7wou4mgh7 .ch5-button--rounded-rectangle{border-radius:10px;}#i1oxmltqdf{font-family:Roboto;position:absolute;display:block;top:151px;left:614px;height:271px;}#i1oxmltqdf .noUi-target{background-color:rgba(0,0,0,0.4);sliderTarget_background-color:rgba(0,0,0,0.4);}#i1oxmltqdf .ch5-slider.ch5-slider--orientation--horizontal.ch5-slider--size--regular .ch5-slider-button-container{width:100% !important;}#i1oxmltqdf .ch5-slider.ch5-slider--orientation--vertical.ch5-slider--size--regular .ch5-slider-button-container{height:271px;}#i1oxmltqdf .noUi-connect{background-color:rgba(0,122,255,0.95);sliderActiveTarget_background-color:#007afff2;}#i5393t0ky4 .ch5-text .ch5-text--span{max-height:max-content !important;}#i5393t0ky4 .ch5-text span.ch5-text--multiline-support-true{word-break:normal;display:block !important;}#i5393t0ky4 .ch5-text--horizontal-alignment-center{padding:0;}#i5393t0ky4 .ch5-text{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);border-width:medium;border-style:none;width:191px;height:40px;color:#ffffff;font-size:26px;custom-font-size:26px;border-top-left-radius:0;border-top-right-radius:0;border-radius:0 0 0 0;}#irnbbf0ile{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:151px;left:699px;width:138px;height:79px;}#irnbbf0ile .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#irnbbf0ile .ch5-button{width:100%;height:100%;}#irnbbf0ile .ch5-button .cb-btn{width:100%;height:100%;}#irnbbf0ile .ch5-button--circle{align-items:center;}#irnbbf0ile .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#irnbbf0ile .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#irnbbf0ile .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#irnbbf0ile .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#irnbbf0ile .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#irnbbf0ile .ch5-button--circle .ch5-button-child{height:79px;}#irnbbf0ile .ch5-button .ch5-button--label{position:absolute;}#irnbbf0ile .ch5-button--default .ch5-button--label{position:relative;}#irnbbf0ile .ch5-button-mode-state{height:inherit;width:inherit;}#irnbbf0ile[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#irnbbf0ile[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#irnbbf0ile[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#irnbbf0ile[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#irnbbf0ile[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#irnbbf0ile[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#irnbbf0ile[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#irnbbf0ile[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#irnbbf0ile .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#irnbbf0ile .ch5-button--rounded-rectangle{border-radius:10px;}#izcli7ri8i{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:343px;left:699px;width:138px;height:79px;}#izcli7ri8i .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#izcli7ri8i .ch5-button{width:100%;height:100%;}#izcli7ri8i .ch5-button .cb-btn{width:100%;height:100%;}#izcli7ri8i .ch5-button--circle{align-items:center;}#izcli7ri8i .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#izcli7ri8i .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#izcli7ri8i .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#izcli7ri8i .ch5-button--size-regular .cb-btn{width:138px;height:79px;}#izcli7ri8i .ch5-button--circle.ch5-button--size-regular .cb-btn{width:138px;height:79px;}#izcli7ri8i .ch5-button--circle .ch5-button-child{height:79px;}#izcli7ri8i .ch5-button .ch5-button--label{position:absolute;}#izcli7ri8i .ch5-button--default .ch5-button--label{position:relative;}#izcli7ri8i .ch5-button-mode-state{height:inherit;width:inherit;}#izcli7ri8i[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#izcli7ri8i[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#izcli7ri8i[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#izcli7ri8i[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#izcli7ri8i[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#izcli7ri8i[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#izcli7ri8i[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#izcli7ri8i[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#izcli7ri8i .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#izcli7ri8i .ch5-button--rounded-rectangle{border-radius:10px;}#i1p81hmwgc{font-family:Roboto;position:absolute;display:block;top:151px;left:849px;height:271px;}#i1p81hmwgc .noUi-target{background-color:rgba(0,0,0,0.4);sliderTarget_background-color:rgba(0,0,0,0.4);}#i1p81hmwgc .ch5-slider.ch5-slider--orientation--horizontal.ch5-slider--size--regular .ch5-slider-button-container{width:100% !important;}#i1p81hmwgc .ch5-slider.ch5-slider--orientation--vertical.ch5-slider--size--regular .ch5-slider-button-container{height:271px;}#i1p81hmwgc .noUi-connect{background-color:rgba(0,122,255,0.95);sliderActiveTarget_background-color:#007afff2;}#is8cm34a58 .ch5-text .ch5-text--span{max-height:max-content !important;}#is8cm34a58 .ch5-text span.ch5-text--multiline-support-true{word-break:normal;display:block !important;}#is8cm34a58 .ch5-text--horizontal-alignment-center{padding:0;}#is8cm34a58 .ch5-text{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);border-width:medium;border-style:none;width:254px;height:44px;color:#ffffff;font-size:26px;custom-font-size:26px;border-top-left-radius:0;border-top-right-radius:0;border-radius:0 0 0 0;}#itpif8hdsy{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:479px;left:198px;width:149px;height:66px;}#itpif8hdsy .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:66px;}#itpif8hdsy .ch5-button{width:100%;height:100%;}#itpif8hdsy .ch5-button .cb-btn{width:100%;height:100%;}#itpif8hdsy .ch5-button--circle{align-items:center;}#itpif8hdsy .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#itpif8hdsy .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#itpif8hdsy .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#itpif8hdsy .ch5-button--size-regular .cb-btn{width:149px;height:66px;}#itpif8hdsy .ch5-button--circle.ch5-button--size-regular .cb-btn{width:149px;height:66px;}#itpif8hdsy .ch5-button--circle .ch5-button-child{height:66px;}#itpif8hdsy .ch5-button .ch5-button--label{position:absolute;}#itpif8hdsy .ch5-button-mode-state{height:inherit;width:inherit;}#itpif8hdsy[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#itpif8hdsy[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#itpif8hdsy[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#itpif8hdsy[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#itpif8hdsy[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#itpif8hdsy[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#itpif8hdsy[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#itpif8hdsy[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#itpif8hdsy .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#itpif8hdsy .ch5-button--rounded-rectangle{border-radius:10px;}#izizq69h15{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:479px;left:369px;width:149px;height:66px;}#izizq69h15 .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:66px;}#izizq69h15 .ch5-button{width:100%;height:100%;}#izizq69h15 .ch5-button .cb-btn{width:100%;height:100%;}#izizq69h15 .ch5-button--circle{align-items:center;}#izizq69h15 .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#izizq69h15 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#izizq69h15 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#izizq69h15 .ch5-button--size-regular .cb-btn{width:149px;height:66px;}#izizq69h15 .ch5-button--circle.ch5-button--size-regular .cb-btn{width:149px;height:66px;}#izizq69h15 .ch5-button--circle .ch5-button-child{height:66px;}#izizq69h15 .ch5-button .ch5-button--label{position:absolute;}#izizq69h15 .ch5-button-mode-state{height:inherit;width:inherit;}#izizq69h15[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#izizq69h15[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#izizq69h15[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#izizq69h15[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#izizq69h15[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#izizq69h15[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#izizq69h15[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#izizq69h15[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#izizq69h15 .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#izizq69h15 .ch5-button--rounded-rectangle{border-radius:10px;}#iii9dhy6ps{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:479px;left:539px;width:149px;height:66px;}#iii9dhy6ps .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:66px;}#iii9dhy6ps .ch5-button{width:100%;height:100%;}#iii9dhy6ps .ch5-button .cb-btn{width:100%;height:100%;}#iii9dhy6ps .ch5-button--circle{align-items:center;}#iii9dhy6ps .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iii9dhy6ps .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iii9dhy6ps .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#iii9dhy6ps .ch5-button--size-regular .cb-btn{width:149px;height:66px;}#iii9dhy6ps .ch5-button--circle.ch5-button--size-regular .cb-btn{width:149px;height:66px;}#iii9dhy6ps .ch5-button--circle .ch5-button-child{height:66px;}#iii9dhy6ps .ch5-button .ch5-button--label{position:absolute;}#iii9dhy6ps .ch5-button-mode-state{height:inherit;width:inherit;}#iii9dhy6ps[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iii9dhy6ps[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#iii9dhy6ps[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iii9dhy6ps[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#iii9dhy6ps[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#iii9dhy6ps[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#iii9dhy6ps[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#iii9dhy6ps[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#iii9dhy6ps .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#iii9dhy6ps .ch5-button--rounded-rectangle{border-radius:10px;}#iz96u{width:100%;height:100%;left:0;top:0px;position:absolute;z-index:-99;display:block;overflow:hidden;}#ibohjwkg6a{min-height:48px;position:absolute;line-height:normal;display:block !important;padding:0;text-decoration:none;top:10px;left:10px;width:427px;height:48px;font-family:Roboto;text-shadow:1px 1px 2px black;}#is8cm34a58{min-height:48px;position:absolute;line-height:normal;display:block !important;padding:0;text-decoration:none;top:99px;left:634px;width:254px;height:44px;font-family:Roboto;border-top-left-radius:0;border-top-right-radius:0;border-radius:0 0 0 0;text-shadow:1px 1px 3px black;}#iljtqih0gt{min-height:48px;position:absolute;line-height:normal;display:block !important;padding:0;text-decoration:none;top:99px;left:8px;width:191px;height:40px;font-family:Roboto;border-top-left-radius:0;border-top-right-radius:0;border-radius:0 0 0 0;text-shadow:1px 1px 3px black;}#ie13ilt2jh{min-height:48px;position:absolute;line-height:normal;display:block !important;padding:0;text-decoration:none;top:99px;left:228px;width:191px;height:40px;font-family:Roboto;border-top-left-radius:0;border-top-right-radius:0;border-radius:0 0 0 0;text-shadow:1px 1px 3px black;}#i5393t0ky4{min-height:48px;position:absolute;line-height:normal;display:block !important;padding:0;text-decoration:none;top:99px;left:448px;width:191px;height:40px;font-family:Roboto;border-top-left-radius:0;border-top-right-radius:0;border-radius:0 0 0 0;text-shadow:1px 1px 3px black;}#wrapper{background-color:#ffffff;}#iii9dhy6ps .ch5-button--default .ch5-button--label{buttonDefaultLabel_margin-top:8px;margin-top:16px;margin-bottom:0;}#izizq69h15 .ch5-button--default .ch5-button--label{buttonDefaultLabel_margin-top:8px;margin-top:16px;margin-bottom:0;}#itpif8hdsy .ch5-button--default .ch5-button--label{buttonDefaultLabel_margin-top:8px;margin-top:16px;margin-bottom:0;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#isf8dcpazo{width:892px;height:612px;left:0;top:0;position:absolute;}#ibohjwkg6a{width:427px;left:10px;top:10px;position:absolute;height:48px;text-shadow:1px 1px 2px black;}#is8cm34a58{width:254px;left:634px;top:99px;position:absolute;height:44px;text-shadow:1px 1px 3px black;}#iz96u{top:0px;}#iljtqih0gt{text-shadow:1px 1px 3px black;top:99px;left:8px;}#ie13ilt2jh{top:99px;text-shadow:1px 1px 3px black;left:228px;}#i5393t0ky4{top:99px;text-shadow:1px 1px 3px black;left:448px;}#ihze73uyte{top:151px;left:12px;}#i9qdjog5ao{top:247px;left:12px;}#ises2y9316{top:343px;left:12px;}#iyyogb5qv8{top:151px;left:162px;}#i0sgqdscpy{top:151px;left:232px;}#in8prvd7gu{top:343px;left:232px;}#ioktczrgh1{top:151px;left:382px;}#i15s24qsah{top:151px;left:452px;}#i7wou4mgh7{top:343px;left:452px;}#i1oxmltqdf{top:151px;left:614px;}#irnbbf0ile{top:151px;left:699px;}#izcli7ri8i{top:343px;left:699px;}#i1p81hmwgc{top:151px;left:849px;}#itpif8hdsy{left:198px;top:479px;position:absolute;width:149px;height:66px;}#izizq69h15{left:369px;top:479px;}#iii9dhy6ps{left:539px;top:479px;}}
+
+
 
 {PageAttributes}
 
@@ -44,15 +48,23 @@ PageMode = "absolute"
 Id = "44d543e4-f9a6-4509-b7b5-c6f66f9435c2"
 
 [[Elements]]
+Name = ""
 Type = "widgetContainer"
+Status = ""
+Content = ""
 Classes = ["widget-container"]
 
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Background"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -66,19 +78,31 @@ componentName = "Background"
 ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
 backgroundcolor = "rgba(173,185,200,0.76)"
+url = ""
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -92,12 +116,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -111,12 +138,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -130,7 +160,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -174,18 +204,29 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -199,12 +240,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "10e5c0b5-2838-4990-85dc-277e9c7835d9"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/10e5c0b5-2838-4990-85dc-277e9c7835d9/5lvw0hgf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/10e5c0b5-2838-4990-85dc-277e9c7835d9/xcmftpa2.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -218,12 +262,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "10e5c0b5-2838-4990-85dc-277e9c7835d9"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/10e5c0b5-2838-4990-85dc-277e9c7835d9/5lvw0hgf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/10e5c0b5-2838-4990-85dc-277e9c7835d9/xcmftpa2.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -237,7 +284,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "10e5c0b5-2838-4990-85dc-277e9c7835d9"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/10e5c0b5-2838-4990-85dc-277e9c7835d9/5lvw0hgf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/10e5c0b5-2838-4990-85dc-277e9c7835d9/xcmftpa2.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -281,18 +328,29 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -306,12 +364,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -325,12 +386,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -344,7 +408,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -388,11 +452,16 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -422,11 +491,16 @@ min = "0"
 max = "65535"
 valueHigh = "70"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Text"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -443,11 +517,16 @@ multilinesupport = "false"
 truncatetext = "false"
 labelinnerhtml = "Master Program Audio"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Text"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -464,18 +543,29 @@ multilinesupport = "false"
 truncatetext = "false"
 labelinnerhtml = "Volume"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -489,12 +579,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -508,12 +601,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -527,7 +623,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -571,18 +667,29 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -596,12 +703,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -615,12 +725,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -634,7 +747,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -678,11 +791,16 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -712,11 +830,16 @@ min = "0"
 max = "65535"
 valueHigh = "70"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Text"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -733,18 +856,29 @@ multilinesupport = "false"
 truncatetext = "false"
 labelinnerhtml = "Treble"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -758,12 +892,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -777,12 +914,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -796,7 +936,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -840,18 +980,29 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -865,12 +1016,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -884,12 +1038,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -903,7 +1060,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -947,11 +1104,16 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -981,11 +1143,16 @@ min = "0"
 max = "65535"
 valueHigh = "70"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Text"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -1002,18 +1169,29 @@ multilinesupport = "false"
 truncatetext = "false"
 labelinnerhtml = "Bass"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1027,12 +1205,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1046,12 +1227,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1065,7 +1249,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "8f87a608-8dca-47b8-8ec5-74610a910435"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/8f87a608-8dca-47b8-8ec5-74610a910435/02o4f0xf.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/8f87a608-8dca-47b8-8ec5-74610a910435/13y11h5g.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -1109,18 +1293,29 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1134,12 +1329,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1153,12 +1351,15 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1172,7 +1373,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "center"
 assetid = "4decf1ac-52a0-4019-94c3-0b1afaa070a2"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/4decf1ac-52a0-4019-94c3-0b1afaa070a2/nz1cjo3t.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/4decf1ac-52a0-4019-94c3-0b1afaa070a2/ihbrg24n.png"
 valignlabel = "bottom"
 labelinnerhtml = ""
 halignlabel = "center"
@@ -1216,11 +1417,16 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Slider"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -1250,11 +1456,16 @@ min = "0"
 max = "65535"
 valueHigh = "70"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Text"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -1271,18 +1482,29 @@ multilinesupport = "false"
 truncatetext = "false"
 labelinnerhtml = "Microphone Volume"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1301,7 +1523,10 @@ valignlabel = "middle"
 halignlabel = "center"
 assetid = "0"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1320,7 +1545,10 @@ valignlabel = "middle"
 halignlabel = "center"
 assetid = "0"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1379,18 +1607,29 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1409,7 +1648,10 @@ valignlabel = "middle"
 halignlabel = "center"
 assetid = "0"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1428,7 +1670,10 @@ valignlabel = "middle"
 halignlabel = "center"
 assetid = "0"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1487,18 +1732,29 @@ previewstate = "normal"
 assetid = "0"
 componentWasResized = "true"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1517,7 +1773,10 @@ valignlabel = "middle"
 halignlabel = "center"
 assetid = "0"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -1536,7 +1795,10 @@ valignlabel = "middle"
 halignlabel = "center"
 assetid = "0"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]

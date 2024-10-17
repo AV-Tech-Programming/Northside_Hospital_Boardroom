@@ -1,9 +1,9 @@
 {FileMetadata}
 Schema = "1.0.0.0"
 CreatedByAppHost = "1.3501.16.0"
-Created = 2024-10-17 14:07:48.366943-04:00
+Created = 2024-10-17 15:16:07.564631-04:00
 LastModifiedByAppHost = "1.3501.16.0"
-Modified = 2024-10-17 14:07:48.36694-04:00
+Modified = 2024-10-17 15:16:07.564628-04:00
 CreatedByProjectApp = "1.3501.16.0"
 LastModifiedByProjectApp = "1.3501.16.0"
 MinimumProjectApp = "1.2600.1"
@@ -15,8 +15,12 @@ MinimumProjectApp = "1.2600.1"
               <ch5-keypad-button pressed="false" id="i6z00yfw8x" key="button1" componentname="button1" labelmajor="1" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" id="iqrc08wt7s" key="button2" componentname="button2" labelmajor="2" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="ivizdzdjkb" key="button3" componentname="button3" labelmajor="3" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="ilhle8bzbh" key="button4" componentname="button4" labelmajor="4" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="i7d5vytozt" key="button5" componentname="button5" labelmajor="5" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="iyk6weqkq1" key="button6" componentname="button6" labelmajor="6" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="iybezscv1v" key="button7" componentname="button7" labelmajor="7" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="il2chutpy7" key="button8" componentname="button8" labelmajor="8" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="i4m01e6u0s" key="button9" componentname="button9" labelmajor="9" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="ilbhbo3trt" key="button0" componentname="button0" labelmajor="0" labelminor=" "></ch5-keypad-button><ch5-keypad-button pressed="false" id="i7apbnl65m" key="buttonstar" componentname="buttonstar" labelmajor="Ch-" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" id="i5hhms1g00" key="buttonhash" componentname="buttonhash" labelmajor="Ch+" labelminor=""></ch5-keypad-button><ch5-keypad-button pressed="false" id="i23i23mvkc" key="buttonextra" componentname="buttonextra" labelmajor="" labelminor=""></ch5-keypad-button></ch5-keypad><ch5-text clearlabel="false" labelmodeadvncomponent="simple" devicesvisited="[&quot;TST-1080 (Landscape), TSW-1070&quot;]" id="ijvfsh8aiu24m" ccid_themecssset="true" ccid_linksendreceive="True" componentname="FormattedText_65" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="Tuner Control" oldid="iep77f41jdkqd">
               </ch5-text></div>
 
+
+
 {Css}
 @media (max-width: 99999px){#il8inm5s7q{width:892px;height:612px;left:0;top:0;position:absolute;}.widget-container{background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);z-index:0;}#ibzv5pf3x5{position:absolute;display:block;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;top:445px;left:21px;width:166px;height:118px;}#ibzv5pf3x5 .ch5-button-child{position:fixed;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;height:79px;}#ibzv5pf3x5 .ch5-button{width:100%;height:100%;}#ibzv5pf3x5 .ch5-button .cb-btn{width:100%;height:100%;}#ibzv5pf3x5 .ch5-button--circle{align-items:center;}#ibzv5pf3x5 .ccid-custom.ch5-button--default .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ibzv5pf3x5 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ibzv5pf3x5 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:60%;height:60%;buttonDefaultImage_width:60%;buttonDefaultImage_height:60%;}#ibzv5pf3x5 .ch5-button--size-regular .cb-btn{width:166px;height:118px;}#ibzv5pf3x5 .ch5-button--circle.ch5-button--size-regular .cb-btn{width:166px;height:79px;}#ibzv5pf3x5 .ch5-button--circle .ch5-button-child{height:79px;}#ibzv5pf3x5 .ch5-button .ch5-button--label{position:absolute;}#ibzv5pf3x5 .ch5-button--default .ch5-button--label{position:relative;}#ibzv5pf3x5 .ch5-button-mode-state{height:inherit;width:inherit;}#ibzv5pf3x5[mode="0"] .ch5-button--default.ch5-button--label{buttonDefaultLabel_margin-top:0px;buttonDefaultLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultLabel_margin-left:0px;buttonDefaultLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ibzv5pf3x5[mode="0"] .ch5-button--default{background-color:rgba(38, 40, 41, 0.95);}#ibzv5pf3x5[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed.ch5-button--label{buttonDefaultPressedLabel_margin-top:0px;buttonDefaultPressedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultPressedLabel_margin-left:0px;buttonDefaultPressedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ibzv5pf3x5[mode="0"][pressed="true"] .ch5-button--default{background-color:rgba(125, 126, 127, 0.4);}#ibzv5pf3x5[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed{background-color:rgba(125, 126, 127, 0.4);}#ibzv5pf3x5[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected.ch5-button--label{buttonDefaultSelectedLabel_margin-top:0px;buttonDefaultSelectedLabel_margin-bottom:0px;margin-top:0px;margin-bottom:0px;buttonDefaultSelectedLabel_margin-left:0px;buttonDefaultSelectedLabel_margin-right:0px;margin-left:0px;margin-right:0px;}#ibzv5pf3x5[mode="0"][selected="true"] .ch5-button--default{background-color:rgb(0, 46, 191);}#ibzv5pf3x5[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected{background-color:rgb(0, 46, 191);}#ibzv5pf3x5 .ch5-button--default{border-width:0px;border-style:none;background-color:rgb(0,0,0);}#ibzv5pf3x5 .ch5-button--rounded-rectangle{border-radius:10px;}#id2lpbct8x .ch5-keypad{width:inherit;height:inherit;min-width:210px;min-height:278px;}#id2lpbct8x .ch5-keypad.ch5-keypad--type-default .keypad-btn button{background-color:rgb(0,0,0);keypadDefault_background-color:rgb(0,0,0);border-color:rgb(0,0,0);keypadDefault_border-color:rgb(0,0,0);border-style:none;border-width:1px;keypadDefault_border-width:1px;color:rgb(255,255,255);keypadDefault_color:rgb(255,255,255);}#id2lpbct8x .ch5-keypad.ch5-keypad--type-default .keypad-btn-pressed.keypad-btn button{background-color:rgba(0,0,0,0.5);keypadActiveDefault_background-color:rgba(0,0,0,0.5);border-color:rgb(0,0,0);keypadActiveDefault_border-color:rgba(0,0,0,0.5);border-style:none;border-width:1px;keypadActiveDefault_border-width:1px;color:rgb(255,255,255);keypadActiveDefault_color:rgb(255,255,255);}#id2lpbct8x{position:absolute;display:block;font-family:Roboto;min-width:210px;min-height:278px;top:103px;left:270px;width:312px;height:414px;keypadDefault_background-color:rgb(0,0,0);keypadActiveDefault_background-color:rgba(0,0,0,0.5);keypadDefault_border-color:rgb(0,0,0);keypadActiveDefault_border-color:rgba(0,0,0,0.5);keypadDefault_border-width:1px;keypadActiveDefault_border-width:1px;keypadDefault_color:rgb(255,255,255);keypadActiveDefault_color:rgb(255,255,255);}#ijvfsh8aiu24m{min-height:48px;position:absolute;line-height:normal;display:block !important;padding:0;text-decoration:none;top:10px;left:10px;width:427px;height:48px;font-family:Roboto;text-shadow:1px 1px 2px black;}#ijvfsh8aiu24m .ch5-text .ch5-text--span{max-height:max-content !important;}#ijvfsh8aiu24m .ch5-text span.ch5-text--multiline-support-true{word-break:normal;display:block !important;}#ijvfsh8aiu24m .ch5-text--horizontal-alignment-center{padding:0;}#ijvfsh8aiu24m .ch5-text{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);border-width:medium;border-style:none;width:427px;height:48px;color:#ffffff;font-size:28px;custom-font-size:28px;}#iahnwfxqtih97{width:100%;height:100%;left:0px;top:0px;position:absolute;z-index:-99;display:block;overflow:hidden;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#il8inm5s7q{width:892px;height:612px;left:0;top:0;position:absolute;}#ijvfsh8aiu24m{width:427px;left:10px;top:10px;position:absolute;height:48px;text-shadow:1px 1px 2px black;}}
+
+
 
 {PageAttributes}
 
@@ -26,15 +30,23 @@ PageMode = "absolute"
 Id = "99382140-0aeb-4c87-b1bd-c7fbe992be7e"
 
 [[Elements]]
+Name = ""
 Type = "widgetContainer"
+Status = ""
+Content = ""
 Classes = ["widget-container"]
 
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Background"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]
@@ -49,19 +61,31 @@ ccid_linkSendReceive = "True"
 devicesVisited = "[\"TST-1080 (Landscape), TSW-1070\"]"
 backgroundcolor = "rgba(173,185,200,0.79)"
 oldID = "ig5yhgnzp6s2q"
+url = ""
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Button"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -75,13 +99,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/b3961dfc-45eb-437c-a5fc-190f87d2fb84/vmccaugu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/b3961dfc-45eb-437c-a5fc-190f87d2fb84/12wcf5db.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -95,13 +122,16 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/b3961dfc-45eb-437c-a5fc-190f87d2fb84/vmccaugu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/b3961dfc-45eb-437c-a5fc-190f87d2fb84/12wcf5db.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
 labelmodeadvnbtn = "advanced"
 halignlabel = "center"
 [[Elements.Components.Components.Components]]
+Name = ""
 Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
 Classes = ["ch5-button-child"]
 
 [Elements.Components.Components.Components.Attributes]
@@ -115,7 +145,7 @@ ccid_themeCSSSet = "true"
 iconposition = "top"
 iconurlfilltype = "initial"
 assetid = "b3961dfc-45eb-437c-a5fc-190f87d2fb84"
-iconurl = "StaticFiles/e104f085-a436-44ae-8f81-658a38a4d11d/b3961dfc-45eb-437c-a5fc-190f87d2fb84/vmccaugu.png"
+iconurl = "StaticFiles/8ca82cf9-53d0-4857-a1c2-66e86a1dc9f2/b3961dfc-45eb-437c-a5fc-190f87d2fb84/12wcf5db.png"
 valignlabel = "bottom"
 labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(255,255,255);\">POWER</span></p>"
 labelmodeadvnbtn = "advanced"
@@ -160,14 +190,22 @@ sendeventontouch = "22"
 previewstate = "normal"
 assetid = "0"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Keypad"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -178,7 +216,10 @@ componentName = "button1"
 labelmajor = "1"
 labelminor = ""
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -189,7 +230,10 @@ componentName = "button2"
 labelmajor = "2"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -200,7 +244,10 @@ componentName = "button3"
 labelmajor = "3"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -211,7 +258,10 @@ componentName = "button4"
 labelmajor = "4"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -222,7 +272,10 @@ componentName = "button5"
 labelmajor = "5"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -233,7 +286,10 @@ componentName = "button6"
 labelmajor = "6"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -244,7 +300,10 @@ componentName = "button7"
 labelmajor = "7"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -255,7 +314,10 @@ componentName = "button8"
 labelmajor = "8"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -266,7 +328,10 @@ componentName = "button9"
 labelmajor = "9"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -277,7 +342,10 @@ componentName = "button0"
 labelmajor = "0"
 labelminor = " "
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -288,7 +356,10 @@ componentName = "buttonstar"
 labelmajor = "Ch-"
 labelminor = ""
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -299,7 +370,10 @@ componentName = "buttonhash"
 labelmajor = "Ch+"
 labelminor = ""
 [[Elements.Components.Components]]
+Name = ""
 Type = "Ch5 Keypad Button"
+Status = ""
+Content = ""
 Editable = true
 
 [Elements.Components.Components.Attributes]
@@ -336,11 +410,16 @@ hidepoundbutton = "false"
 ccid_linkSendReceive = "True"
 sendeventonclickstart = "Contract Enabled"
 [[Elements.Components]]
+Name = ""
 Type = "Ch5 Text"
+Status = ""
+Content = ""
 Editable = true
 
 [[Elements.Components.Components]]
+Name = ""
 Type = "textnode"
+Status = ""
 Content = "\n              "
 
 [Elements.Components.Attributes]

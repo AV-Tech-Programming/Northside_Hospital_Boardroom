@@ -3,7 +3,7 @@ Schema = "1.0.0.0"
 CreatedByAppHost = "1.3501.16.0"
 Created = 2024-10-16 13:00:04.52915-04:00
 LastModifiedByAppHost = "1.3501.16.0"
-Modified = 2024-10-17 10:20:33.382006-04:00
+Modified = 2024-10-17 15:16:07.526978-04:00
 CreatedByProjectApp = "1.3501.16.0"
 LastModifiedByProjectApp = "1.3501.16.0"
 MinimumProjectApp = "1.2600.1"
@@ -19,7 +19,7 @@ ThemeId = "light-theme.css"
 ThemePageColor = "#ffffff"
 SdkId = "CH5:2.11.1"
 ComponentKey = "UiEditor"
-DeviceResolutionIds = "D-L-TST1080-1280-0800,D-L-TSW1070-1280-0800,G-L-IPAD000-1080-0810,G-L-IPAIR00-1024-0768"
+DeviceResolutionIds = "D-L-TST1080-1280-0800,D-L-TSW1070-1280-0800"
 ipId = "10"
 ProjectSchemaVersion = "4"
 
