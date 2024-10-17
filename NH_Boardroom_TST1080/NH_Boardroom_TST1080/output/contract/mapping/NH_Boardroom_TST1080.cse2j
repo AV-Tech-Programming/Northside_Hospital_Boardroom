@@ -1,12 +1,23 @@
 {
   "name": "NH_Boardroom_TST1080",
-  "timestamp": "2024-10-16T19:26:29.9316184+00:00",
+  "timestamp": "2024-10-17T18:12:39.7063617+00:00",
   "version": "1.0.0.0",
   "schema_version": 1,
   "extra_value": "",
   "signals": {
+    "states": {
+      "boolean": {
+        "10": {
+          "3": "Sidebar.AdvancedButton_32.Selected"
+        }
+      }
+    },
     "events": {
       "boolean": {
+        "Sidebar.AdvancedButton_32.Press": {
+          "joinId": 3,
+          "smartObjectId": 10
+        },
         "BlurayControl.BlurayDpad.Up": {
           "joinId": 3,
           "smartObjectId": 12
